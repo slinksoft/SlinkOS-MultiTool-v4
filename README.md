@@ -29,8 +29,8 @@ I meant to release the source sooner, but was afraid it was not ready in its cur
 
 So here it is: the SlinkOS source code I've promised for 2 years after SlinkOS went out of beta. The latest release is avaiable for download on the releases page. If you wish to modify implementations and/or rebuild, simply open the project in Visual Studio. The project is running on .NET Framework, with the use of CefSharp and NCalc.
 
+Check out this [video](https://www.youtube.com/watch?v=YdBM1s9Scas&feature=emb_title) to get a feel for SlinkOS (THIS VIDEO IS A WAY OLDER VERSION OF SLINKOS, ONE OF THE FIRST OUT OF BETA. The latest release has many more features and optimized functionality).
+
 Thank you all for the support! I now present you with the final version of SlinkOS - MultiTool v4: 4.90-20!
 
 <h3>PLEASE NOTE: The source code will not contain the binaries for CefSharp, as they are too big to upload onto Github. You must go into the Nuget Package Manager for the project and re-add them. If you do not do this, the code will not compile.</h3>
-
-Check out this [video](https://www.youtube.com/watch?v=YdBM1s9Scas&feature=emb_title) to get a feel for SlinkOS (THIS VIDEO IS A WAY OLDER VERSION OF SLINKOS, ONE OF THE FIRST OUT OF BETA. The latest release has many more features and optimized functionality).
