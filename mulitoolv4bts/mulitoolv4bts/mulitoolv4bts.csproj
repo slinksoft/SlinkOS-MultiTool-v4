@@ -1,0 +1,541 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="12.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="..\packages\CefSharp.WinForms.86.0.241\build\CefSharp.WinForms.props" Condition="Exists('..\packages\CefSharp.WinForms.86.0.241\build\CefSharp.WinForms.props')" />
+  <Import Project="..\packages\CefSharp.Common.86.0.241\build\CefSharp.Common.props" Condition="Exists('..\packages\CefSharp.Common.86.0.241\build\CefSharp.Common.props')" />
+  <Import Project="..\packages\cef.redist.x86.86.0.24\build\cef.redist.x86.props" Condition="Exists('..\packages\cef.redist.x86.86.0.24\build\cef.redist.x86.props')" />
+  <Import Project="..\packages\cef.redist.x64.86.0.24\build\cef.redist.x64.props" Condition="Exists('..\packages\cef.redist.x64.86.0.24\build\cef.redist.x64.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">x86</Platform>
+    <ProductVersion>8.0.30703</ProductVersion>
+    <SchemaVersion>2.0</SchemaVersion>
+    <ProjectGuid>{2EBD764F-4BD5-4E8D-BE5A-0D92FB32571B}</ProjectGuid>
+    <OutputType>Exe</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>slinkosmtv4</RootNamespace>
+    <AssemblyName>slinkosmtv4</AssemblyName>
+    <TargetFrameworkVersion>v4.5.2</TargetFrameworkVersion>
+    <TargetFrameworkProfile>
+    </TargetFrameworkProfile>
+    <FileAlignment>512</FileAlignment>
+    <NuGetPackageImportStamp>
+    </NuGetPackageImportStamp>
+    <IsWebBootstrapper>false</IsWebBootstrapper>
+    <PublishUrl>C:\Users\Dan\Desktop\</PublishUrl>
+    <Install>true</Install>
+    <InstallFrom>Disk</InstallFrom>
+    <UpdateEnabled>false</UpdateEnabled>
+    <UpdateMode>Foreground</UpdateMode>
+    <UpdateInterval>7</UpdateInterval>
+    <UpdateIntervalUnits>Days</UpdateIntervalUnits>
+    <UpdatePeriodically>false</UpdatePeriodically>
+    <UpdateRequired>false</UpdateRequired>
+    <MapFileExtensions>true</MapFileExtensions>
+    <ApplicationRevision>1</ApplicationRevision>
+    <ApplicationVersion>1.0.0.%2a</ApplicationVersion>
+    <UseApplicationTrust>false</UseApplicationTrust>
+    <PublishWizardCompleted>true</PublishWizardCompleted>
+    <BootstrapperEnabled>true</BootstrapperEnabled>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|x86' ">
+    <PlatformTarget>x86</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+    <Prefer32Bit>false</Prefer32Bit>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|x86' ">
+    <PlatformTarget>x86</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+    <Prefer32Bit>false</Prefer32Bit>
+  </PropertyGroup>
+  <PropertyGroup>
+    <ApplicationIcon>icon.ico</ApplicationIcon>
+  </PropertyGroup>
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)' == 'Debug|AnyCPU'">
+    <Prefer32Bit>false</Prefer32Bit>
+  </PropertyGroup>
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)' == 'Debug|x64'">
+    <Prefer32Bit>false</Prefer32Bit>
+  </PropertyGroup>
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)' == 'Release|AnyCPU'">
+    <Prefer32Bit>false</Prefer32Bit>
+  </PropertyGroup>
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)' == 'Release|x64'">
+    <Prefer32Bit>false</Prefer32Bit>
+  </PropertyGroup>
+  <PropertyGroup>
+    <StartupObject />
+  </PropertyGroup>
+  <PropertyGroup>
+    <ManifestCertificateThumbprint>63D8AA69CAC24DC7A78ED105D9950C1DE5F51B9E</ManifestCertificateThumbprint>
+  </PropertyGroup>
+  <PropertyGroup>
+    <ManifestKeyFile>mulitoolv4bts_TemporaryKey.pfx</ManifestKeyFile>
+  </PropertyGroup>
+  <PropertyGroup>
+    <GenerateManifests>true</GenerateManifests>
+  </PropertyGroup>
+  <PropertyGroup>
+    <SignManifests>false</SignManifests>
+  </PropertyGroup>
+  <PropertyGroup>
+    <NoWin32Manifest>true</NoWin32Manifest>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="NCalc, Version=1.3.8.0, Culture=neutral, PublicKeyToken=973cde3f1cafed03, processorArchitecture=MSIL">
+      <HintPath>..\packages\ncalc.1.3.8\lib\NCalc.dll</HintPath>
+    </Reference>
+    <Reference Include="System">
+      <HintPath>..\..\..\..\..\..\..\..\Program Files (x86)\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.5.2\System.dll</HintPath>
+    </Reference>
+    <Reference Include="System.Core" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="binconvert.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="binconvert.Designer.cs">
+      <DependentUpon>binconvert.cs</DependentUpon>
+    </Compile>
+    <Compile Include="browser.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="browser.Designer.cs">
+      <DependentUpon>browser.cs</DependentUpon>
+    </Compile>
+    <Compile Include="calculator.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="calculator.Designer.cs">
+      <DependentUpon>calculator.cs</DependentUpon>
+    </Compile>
+    <Compile Include="cb.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="cb.Designer.cs">
+      <DependentUpon>cb.cs</DependentUpon>
+    </Compile>
+    <Compile Include="censorbar.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="censorbar.Designer.cs">
+      <DependentUpon>censorbar.cs</DependentUpon>
+    </Compile>
+    <Compile Include="clipboardcs.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="clipboardcs.Designer.cs">
+      <DependentUpon>clipboardcs.cs</DependentUpon>
+    </Compile>
+    <Compile Include="CloseInitialConsoleWindow.cs" />
+    <Compile Include="commandslist.cs" />
+    <Compile Include="equationCalc.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="equationCalc.Designer.cs">
+      <DependentUpon>equationCalc.cs</DependentUpon>
+    </Compile>
+    <Compile Include="menu.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="menu.Designer.cs">
+      <DependentUpon>menu.cs</DependentUpon>
+    </Compile>
+    <Compile Include="calculatorselect.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="calculatorselect.Designer.cs">
+      <DependentUpon>calculatorselect.cs</DependentUpon>
+    </Compile>
+    <Compile Include="hexconvert.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="hexconvert.designer.cs">
+      <DependentUpon>hexconvert.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Hotkey.cs" />
+    <Compile Include="newcalc.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="newcalc.Designer.cs">
+      <DependentUpon>newcalc.cs</DependentUpon>
+    </Compile>
+    <Compile Include="performance.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="performance.Designer.cs">
+      <DependentUpon>performance.cs</DependentUpon>
+    </Compile>
+    <Compile Include="postnote.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="postnote.Designer.cs">
+      <DependentUpon>postnote.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Program.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>Resources.resx</DependentUpon>
+    </Compile>
+    <Compile Include="screenshot.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="screenshot.Designer.cs">
+      <DependentUpon>screenshot.cs</DependentUpon>
+    </Compile>
+    <Compile Include="settings.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="settings.Designer.cs">
+      <DependentUpon>settings.cs</DependentUpon>
+    </Compile>
+    <Compile Include="slinkoscredits.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="slinkoscredits.Designer.cs">
+      <DependentUpon>slinkoscredits.cs</DependentUpon>
+    </Compile>
+    <Compile Include="snake\border.cs" />
+    <Compile Include="snake\Food.cs" />
+    <Compile Include="snake\Form1.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="snake\Form1.designer.cs">
+      <DependentUpon>Form1.cs</DependentUpon>
+    </Compile>
+    <Compile Include="snake\Snake.cs" />
+    <Compile Include="spammer.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="spammer.Designer.cs">
+      <DependentUpon>spammer.cs</DependentUpon>
+    </Compile>
+    <Compile Include="SplashScreen.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="SplashScreen.Designer.cs">
+      <DependentUpon>SplashScreen.cs</DependentUpon>
+    </Compile>
+    <Compile Include="ssregion.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ssregion.Designer.cs">
+      <DependentUpon>ssregion.cs</DependentUpon>
+    </Compile>
+    <Compile Include="StartupConsole.cs" />
+    <Compile Include="stopwatch.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="stopwatch.Designer.cs">
+      <DependentUpon>stopwatch.cs</DependentUpon>
+    </Compile>
+    <Compile Include="terminal.cs" />
+    <Compile Include="timer.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="timer.Designer.cs">
+      <DependentUpon>timer.cs</DependentUpon>
+    </Compile>
+    <Compile Include="zelda\Form1.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="zelda\Form1.designer.cs">
+      <DependentUpon>Form1.cs</DependentUpon>
+    </Compile>
+    <Compile Include="zelda\Form3.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="zelda\Form3.designer.cs">
+      <DependentUpon>Form3.cs</DependentUpon>
+    </Compile>
+    <Compile Include="zelda\Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>Resources.resx</DependentUpon>
+    </Compile>
+    <EmbeddedResource Include="binconvert.resx">
+      <DependentUpon>binconvert.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="browser.resx">
+      <DependentUpon>browser.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="calculator.resx">
+      <DependentUpon>calculator.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="cb.resx">
+      <DependentUpon>cb.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="censorbar.resx">
+      <DependentUpon>censorbar.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="clipboardcs.resx">
+      <DependentUpon>clipboardcs.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="equationCalc.resx">
+      <DependentUpon>equationCalc.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="menu.resx">
+      <DependentUpon>menu.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="calculatorselect.resx">
+      <DependentUpon>calculatorselect.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="hexconvert.resx">
+      <DependentUpon>hexconvert.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="newcalc.resx">
+      <DependentUpon>newcalc.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="performance.resx">
+      <DependentUpon>performance.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="postnote.resx">
+      <DependentUpon>postnote.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <SubType>Designer</SubType>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+    </EmbeddedResource>
+    <EmbeddedResource Include="screenshot.resx">
+      <DependentUpon>screenshot.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="settings.resx">
+      <DependentUpon>settings.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="slinkoscredits.resx">
+      <DependentUpon>slinkoscredits.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="snake\Form1.resx">
+      <DependentUpon>Form1.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="spammer.resx">
+      <DependentUpon>spammer.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="SplashScreen.resx">
+      <DependentUpon>SplashScreen.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ssregion.resx">
+      <DependentUpon>ssregion.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="stopwatch.resx">
+      <DependentUpon>stopwatch.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="timer.resx">
+      <DependentUpon>timer.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="zelda\Form1.resx">
+      <DependentUpon>Form1.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="zelda\Form3.resx">
+      <DependentUpon>Form3.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="zelda\Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+    </EmbeddedResource>
+    <None Include="app.config" />
+    <None Include="mulitoolv4bts_TemporaryKey.pfx" />
+    <None Include="packages.config" />
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\chim.wav" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\binaryicon.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\hexicon.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\calculatoricon.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\timericon.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\timeicon.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\censoricon.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\spam.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\snapshot.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\slinkbrowser.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\clipboard.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\settings.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="icon.ico" />
+    <None Include="Resources\beamsfx.wav" />
+    <None Include="Resources\bombblow.wav" />
+    <None Include="Resources\bombdrop.wav" />
+    <None Include="Resources\boomerangthrow.wav" />
+    <None Include="Resources\bossscream.wav" />
+    <None Include="Resources\deflect.wav" />
+    <None Include="Resources\die.wav" />
+    <None Include="Resources\dungeon.wav" />
+    <None Include="Resources\getitem.wav" />
+    <None Include="Resources\getrupee.wav" />
+    <None Include="Resources\gettriforce.wav" />
+    <None Include="Resources\heart.wav" />
+    <None Include="Resources\hit.wav" />
+    <None Include="Resources\hurt.wav" />
+    <None Include="Resources\kill.wav" />
+    <None Include="Resources\lowhealth.wav" />
+    <None Include="Resources\overworld.wav" />
+    <None Include="Resources\secret.wav" />
+    <None Include="Resources\slashsfx.wav" />
+    <None Include="Resources\swordsfx.wav" />
+    <None Include="Resources\titlebgm.wav" />
+    <None Include="Resources\slinkoswatermark.png" />
+    <None Include="Resources\postnoteicon.png" />
+    <Content Include="zelda\Resources\a1.png" />
+    <Content Include="zelda\Resources\a2.png" />
+    <Content Include="zelda\Resources\a3.png" />
+    <Content Include="zelda\Resources\barricade.png" />
+    <Content Include="zelda\Resources\barricade1.png" />
+    <Content Include="zelda\Resources\ben1.gif" />
+    <Content Include="zelda\Resources\ben2.gif" />
+    <Content Include="zelda\Resources\bombs.png" />
+    <Content Include="zelda\Resources\boomerangani.gif" />
+    <Content Include="zelda\Resources\boomu.png" />
+    <Content Include="zelda\Resources\boss.gif" />
+    <Content Include="zelda\Resources\bossflare.png" />
+    <Content Include="zelda\Resources\d1.png" />
+    <Content Include="zelda\Resources\d2.png" />
+    <Content Include="zelda\Resources\d3.png" />
+    <Content Include="zelda\Resources\downani.gif" />
+    <Content Include="zelda\Resources\downidle.png" />
+    <Content Include="zelda\Resources\emptyheart.png" />
+    <Content Include="zelda\Resources\enemy.png" />
+    <Content Include="zelda\Resources\explosion.png" />
+    <Content Include="zelda\Resources\fullheart.png" />
+    <Content Include="zelda\Resources\heart.png" />
+    <Content Include="zelda\Resources\knightl.gif" />
+    <Content Include="zelda\Resources\knightl.png" />
+    <Content Include="zelda\Resources\knightr.gif" />
+    <Content Include="zelda\Resources\knightr.png" />
+    <Content Include="zelda\Resources\leftani.gif" />
+    <Content Include="zelda\Resources\leftidle.png" />
+    <Content Include="zelda\Resources\linktriforce.gif" />
+    <Content Include="zelda\Resources\orleft.png" />
+    <Content Include="zelda\Resources\orright.png" />
+    <Content Include="zelda\Resources\orup.png" />
+    <Content Include="zelda\Resources\rightani.gif" />
+    <Content Include="zelda\Resources\rightidle.png" />
+    <Content Include="zelda\Resources\rock.png" />
+    <Content Include="zelda\Resources\rupee.png" />
+    <Content Include="zelda\Resources\shop.png" />
+    <Content Include="zelda\Resources\skelly.gif" />
+    <Content Include="zelda\Resources\swingdown.png" />
+    <Content Include="zelda\Resources\swingleft.png" />
+    <Content Include="zelda\Resources\swingright.png" />
+    <Content Include="zelda\Resources\swingright1.png" />
+    <Content Include="zelda\Resources\swingup.png" />
+    <Content Include="zelda\Resources\sword.png" />
+    <Content Include="zelda\Resources\swordbeamdown.png" />
+    <Content Include="zelda\Resources\swordbeamleft.png" />
+    <Content Include="zelda\Resources\swordbeamright.png" />
+    <Content Include="zelda\Resources\swordbeamup.png" />
+    <Content Include="zelda\Resources\titlescreen.gif" />
+    <Content Include="zelda\Resources\triforce.gif" />
+    <Content Include="zelda\Resources\upani.gif" />
+    <Content Include="zelda\Resources\upidle.png" />
+    <None Include="Resources\battery.png" />
+    <None Include="Resources\Untitled-3.png" />
+    <None Include="Resources\terminalicon.png" />
+    <None Include="Resources\shutdownicon.png" />
+    <None Include="Resources\restarticon.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <COMReference Include="AxWMPLib">
+      <Guid>{6BF52A50-394A-11D3-B153-00C04F79FAA6}</Guid>
+      <VersionMajor>1</VersionMajor>
+      <VersionMinor>0</VersionMinor>
+      <Lcid>0</Lcid>
+      <WrapperTool>aximp</WrapperTool>
+      <Isolated>False</Isolated>
+    </COMReference>
+    <COMReference Include="WMPLib">
+      <Guid>{6BF52A50-394A-11D3-B153-00C04F79FAA6}</Guid>
+      <VersionMajor>1</VersionMajor>
+      <VersionMinor>0</VersionMinor>
+      <Lcid>0</Lcid>
+      <WrapperTool>tlbimp</WrapperTool>
+      <Isolated>False</Isolated>
+      <EmbedInteropTypes>True</EmbedInteropTypes>
+    </COMReference>
+  </ItemGroup>
+  <ItemGroup>
+    <BootstrapperPackage Include=".NETFramework,Version=v4.5.2">
+      <Visible>False</Visible>
+      <ProductName>Microsoft .NET Framework 4.5.2 %28x86 and x64%29</ProductName>
+      <Install>true</Install>
+    </BootstrapperPackage>
+    <BootstrapperPackage Include="Microsoft.Net.Framework.3.5.SP1">
+      <Visible>False</Visible>
+      <ProductName>.NET Framework 3.5 SP1</ProductName>
+      <Install>false</Install>
+    </BootstrapperPackage>
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+  <Target Name="EnsureNuGetPackageBuildImports" BeforeTargets="PrepareForBuild">
+    <PropertyGroup>
+      <ErrorText>This project references NuGet package(s) that are missing on this computer. Use NuGet Package Restore to download them.  For more information, see http://go.microsoft.com/fwlink/?LinkID=322105. The missing file is {0}.</ErrorText>
+    </PropertyGroup>
+    <Error Condition="!Exists('..\packages\cef.redist.x64.86.0.24\build\cef.redist.x64.props')" Text="$([System.String]::Format('$(ErrorText)', '..\packages\cef.redist.x64.86.0.24\build\cef.redist.x64.props'))" />
+    <Error Condition="!Exists('..\packages\cef.redist.x86.86.0.24\build\cef.redist.x86.props')" Text="$([System.String]::Format('$(ErrorText)', '..\packages\cef.redist.x86.86.0.24\build\cef.redist.x86.props'))" />
+    <Error Condition="!Exists('..\packages\CefSharp.Common.86.0.241\build\CefSharp.Common.props')" Text="$([System.String]::Format('$(ErrorText)', '..\packages\CefSharp.Common.86.0.241\build\CefSharp.Common.props'))" />
+    <Error Condition="!Exists('..\packages\CefSharp.Common.86.0.241\build\CefSharp.Common.targets')" Text="$([System.String]::Format('$(ErrorText)', '..\packages\CefSharp.Common.86.0.241\build\CefSharp.Common.targets'))" />
+    <Error Condition="!Exists('..\packages\CefSharp.WinForms.86.0.241\build\CefSharp.WinForms.props')" Text="$([System.String]::Format('$(ErrorText)', '..\packages\CefSharp.WinForms.86.0.241\build\CefSharp.WinForms.props'))" />
+    <Error Condition="!Exists('..\packages\CefSharp.WinForms.86.0.241\build\CefSharp.WinForms.targets')" Text="$([System.String]::Format('$(ErrorText)', '..\packages\CefSharp.WinForms.86.0.241\build\CefSharp.WinForms.targets'))" />
+  </Target>
+  <Import Project="..\packages\CefSharp.Common.86.0.241\build\CefSharp.Common.targets" Condition="Exists('..\packages\CefSharp.Common.86.0.241\build\CefSharp.Common.targets')" />
+  <Import Project="..\packages\CefSharp.WinForms.86.0.241\build\CefSharp.WinForms.targets" Condition="Exists('..\packages\CefSharp.WinForms.86.0.241\build\CefSharp.WinForms.targets')" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>

@@ -1,0 +1,579 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<asmv1:assembly xsi:schemaLocation="urn:schemas-microsoft-com:asm.v1 assembly.adaptive.xsd" manifestVersion="1.0" xmlns:asmv1="urn:schemas-microsoft-com:asm.v1" xmlns="urn:schemas-microsoft-com:asm.v2" xmlns:asmv2="urn:schemas-microsoft-com:asm.v2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:co.v1="urn:schemas-microsoft-com:clickonce.v1" xmlns:asmv3="urn:schemas-microsoft-com:asm.v3" xmlns:dsig="http://www.w3.org/2000/09/xmldsig#" xmlns:co.v2="urn:schemas-microsoft-com:clickonce.v2">
+  <asmv1:assemblyIdentity name="slinkosmtv4.exe" version="1.0.0.1" publicKeyToken="0000000000000000" language="neutral" processorArchitecture="x86" type="win32" />
+  <description asmv2:iconFile="icon.ico" xmlns="urn:schemas-microsoft-com:asm.v1" />
+  <application />
+  <entryPoint>
+    <assemblyIdentity name="slinkosmtv4" version="1.0.0.0" language="neutral" processorArchitecture="x86" />
+    <commandLine file="slinkosmtv4.exe" parameters="" />
+  </entryPoint>
+  <trustInfo>
+    <security>
+      <applicationRequestMinimum>
+        <PermissionSet Unrestricted="true" ID="Custom" SameSite="site" />
+        <defaultAssemblyRequest permissionSetReference="Custom" />
+      </applicationRequestMinimum>
+      <requestedPrivileges xmlns="urn:schemas-microsoft-com:asm.v3">
+        <!--
+          UAC Manifest Options
+          If you want to change the Windows User Account Control level replace the
+          requestedExecutionLevel node with one of the following.
+
+        <requestedExecutionLevel  level="asInvoker" uiAccess="false" />
+        <requestedExecutionLevel  level="requireAdministrator" uiAccess="false" />
+        <requestedExecutionLevel  level="highestAvailable" uiAccess="false" />
+
+         If you want to utilize File and Registry Virtualization for backward
+         compatibility then delete the requestedExecutionLevel node.
+    -->
+        <requestedExecutionLevel level="asInvoker" uiAccess="false" />
+      </requestedPrivileges>
+    </security>
+  </trustInfo>
+  <dependency>
+    <dependentOS>
+      <osVersionInfo>
+        <os majorVersion="5" minorVersion="1" buildNumber="2600" servicePackMajor="0" />
+      </osVersionInfo>
+    </dependentOS>
+  </dependency>
+  <dependency>
+    <dependentAssembly dependencyType="preRequisite" allowDelayedBinding="true">
+      <assemblyIdentity name="Microsoft.Windows.CommonLanguageRuntime" version="4.0.30319.0" />
+    </dependentAssembly>
+  </dependency>
+  <dependency>
+    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="AxInterop.WMPLib.dll" size="53760">
+      <assemblyIdentity name="AxInterop.WMPLib" version="1.0.0.0" language="neutral" processorArchitecture="msil" />
+      <hash>
+        <dsig:Transforms>
+          <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+        </dsig:Transforms>
+        <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
+        <dsig:DigestValue>nV+NtW/ZA4a2OPe0Ihw/t5HdzaiyOM21vLN2n8lvMvo=</dsig:DigestValue>
+      </hash>
+    </dependentAssembly>
+  </dependency>
+  <dependency>
+    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="Interop.WMPLib.dll" size="330752">
+      <assemblyIdentity name="Interop.WMPLib" version="1.0.0.0" language="neutral" processorArchitecture="x86" />
+      <hash>
+        <dsig:Transforms>
+          <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+        </dsig:Transforms>
+        <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
+        <dsig:DigestValue>BMSZmfZy7kw00nHX6byn8EMxyA+xfgfv/hzaVUZ0S90=</dsig:DigestValue>
+      </hash>
+    </dependentAssembly>
+  </dependency>
+  <dependency>
+    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="NCalc.dll" size="194560">
+      <assemblyIdentity name="NCalc" version="1.3.8.0" publicKeyToken="973CDE3F1CAFED03" language="neutral" processorArchitecture="msil" />
+      <hash>
+        <dsig:Transforms>
+          <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+        </dsig:Transforms>
+        <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
+        <dsig:DigestValue>ScNU0jQWplizKeP4Zo3jTAKaf/jCTwX6xJilcsohXSU=</dsig:DigestValue>
+      </hash>
+    </dependentAssembly>
+  </dependency>
+  <dependency>
+    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="slinkosmtv4.exe" size="51044352">
+      <assemblyIdentity name="slinkosmtv4" version="1.0.0.0" language="neutral" processorArchitecture="x86" />
+      <hash>
+        <dsig:Transforms>
+          <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+        </dsig:Transforms>
+        <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
+        <dsig:DigestValue>046G1S38Q4sncGlXCq42b3AttJ/2kfPyQA6Rj6acGVA=</dsig:DigestValue>
+      </hash>
+    </dependentAssembly>
+  </dependency>
+  <file name="icon.ico" size="4286">
+    <hash>
+      <dsig:Transforms>
+        <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+      </dsig:Transforms>
+      <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
+      <dsig:DigestValue>bwuUw4CU+UGpPHE5IwhFebU0p41AWjWHUID23f7PE5A=</dsig:DigestValue>
+    </hash>
+  </file>
+  <file name="slinkosmtv4.exe.config" size="146">
+    <hash>
+      <dsig:Transforms>
+        <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+      </dsig:Transforms>
+      <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
+      <dsig:DigestValue>GDMa4G5bOCPeWn0hnN/opCeVGXWVPIwNURasYhti16U=</dsig:DigestValue>
+    </hash>
+  </file>
+  <file name="zelda\Resources\a1.png" size="4077">
+    <hash>
+      <dsig:Transforms>
+        <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+      </dsig:Transforms>
+      <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
+      <dsig:DigestValue>HXs4cDdSOCq0nuHiO+7LLmf3A70h0hFdRKm8X5CoRRo=</dsig:DigestValue>
+    </hash>
+  </file>
+  <file name="zelda\Resources\a2.png" size="38382">
+    <hash>
+      <dsig:Transforms>
+        <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+      </dsig:Transforms>
+      <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
+      <dsig:DigestValue>nEjXnDSL+GxWYgXU4gf7NV41jLoop1iofP1oo9ftKMY=</dsig:DigestValue>
+    </hash>
+  </file>
+  <file name="zelda\Resources\a3.png" size="3966">
+    <hash>
+      <dsig:Transforms>
+        <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+      </dsig:Transforms>
+      <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
+      <dsig:DigestValue>H2DLtYQKRJv091GYIRvIrPIa1xqqkQ4+KHkD2YZjbi8=</dsig:DigestValue>
+    </hash>
+  </file>
+  <file name="zelda\Resources\barricade.png" size="201">
+    <hash>
+      <dsig:Transforms>
+        <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+      </dsig:Transforms>
+      <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
+      <dsig:DigestValue>J1/Vv+HBUT8N/Nqqp2D0WFIp9dqpxtuRRGBlZJ/er98=</dsig:DigestValue>
+    </hash>
+  </file>
+  <file name="zelda\Resources\barricade1.png" size="201">
+    <hash>
+      <dsig:Transforms>
+        <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+      </dsig:Transforms>
+      <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
+      <dsig:DigestValue>J1/Vv+HBUT8N/Nqqp2D0WFIp9dqpxtuRRGBlZJ/er98=</dsig:DigestValue>
+    </hash>
+  </file>
+  <file name="zelda\Resources\ben1.gif" size="199">
+    <hash>
+      <dsig:Transforms>
+        <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+      </dsig:Transforms>
+      <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
+      <dsig:DigestValue>qG981CRZro7IVJZMlEgQh8BmafvAvFu9ACyLDU3svuk=</dsig:DigestValue>
+    </hash>
+  </file>
+  <file name="zelda\Resources\ben2.gif" size="182">
+    <hash>
+      <dsig:Transforms>
+        <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+      </dsig:Transforms>
+      <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
+      <dsig:DigestValue>vo6E1epbactxRWK4zpUNi3AuD9W/Hhs2mEgOMSQKgbE=</dsig:DigestValue>
+    </hash>
+  </file>
+  <file name="zelda\Resources\bombs.png" size="163">
+    <hash>
+      <dsig:Transforms>
+        <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+      </dsig:Transforms>
+      <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
+      <dsig:DigestValue>a16+hZmaMEKzlZ2TL00GVq+Suodkx9B9IMgim1rCpo8=</dsig:DigestValue>
+    </hash>
+  </file>
+  <file name="zelda\Resources\boomerangani.gif" size="2697">
+    <hash>
+      <dsig:Transforms>
+        <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+      </dsig:Transforms>
+      <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
+      <dsig:DigestValue>0i/9UWOlafQz/M+h3mhxAWgF8yBEUNSh0lxKsyj0MLY=</dsig:DigestValue>
+    </hash>
+  </file>
+  <file name="zelda\Resources\boomu.png" size="337">
+    <hash>
+      <dsig:Transforms>
+        <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+      </dsig:Transforms>
+      <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
+      <dsig:DigestValue>tEILmINtcusnU3SQOTsiveQZvK3vy7nO/tBRBQtbcV0=</dsig:DigestValue>
+    </hash>
+  </file>
+  <file name="zelda\Resources\boss.gif" size="712">
+    <hash>
+      <dsig:Transforms>
+        <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+      </dsig:Transforms>
+      <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
+      <dsig:DigestValue>yYjXZ1QmCSz4yT9wnT5kV+r5c9vPpXW6+Q3oKnC+eeU=</dsig:DigestValue>
+    </hash>
+  </file>
+  <file name="zelda\Resources\bossflare.png" size="230">
+    <hash>
+      <dsig:Transforms>
+        <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+      </dsig:Transforms>
+      <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
+      <dsig:DigestValue>rBDTJrLVIqTtMCPpAtDWbmBqxoQgjkcFpBlp0rBMfAs=</dsig:DigestValue>
+    </hash>
+  </file>
+  <file name="zelda\Resources\d1.png" size="1778">
+    <hash>
+      <dsig:Transforms>
+        <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+      </dsig:Transforms>
+      <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
+      <dsig:DigestValue>0ywdKEspGKKJ2HQbA0sh+IQXs/TPXuCVyNkaV39F6Vk=</dsig:DigestValue>
+    </hash>
+  </file>
+  <file name="zelda\Resources\d2.png" size="2789">
+    <hash>
+      <dsig:Transforms>
+        <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+      </dsig:Transforms>
+      <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
+      <dsig:DigestValue>Fxxrk20OD5iUl2gEKfp8qpT6GOTHtWB/dVJnBjuqbvM=</dsig:DigestValue>
+    </hash>
+  </file>
+  <file name="zelda\Resources\d3.png" size="4374">
+    <hash>
+      <dsig:Transforms>
+        <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+      </dsig:Transforms>
+      <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
+      <dsig:DigestValue>gV2GjDpfaNpai6kx8xP/a5oQhEab7cF0hO3dTWSVnT4=</dsig:DigestValue>
+    </hash>
+  </file>
+  <file name="zelda\Resources\downani.gif" size="219">
+    <hash>
+      <dsig:Transforms>
+        <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+      </dsig:Transforms>
+      <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
+      <dsig:DigestValue>8W8FBFhLGYi8NHMFi+C1RiAdAoW9y4meyTJc7QzGOp0=</dsig:DigestValue>
+    </hash>
+  </file>
+  <file name="zelda\Resources\downidle.png" size="357">
+    <hash>
+      <dsig:Transforms>
+        <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+      </dsig:Transforms>
+      <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
+      <dsig:DigestValue>ZLi87/UtXFLxLJqdhn1FQva/HTTcgqSMYxTHIjDsyqI=</dsig:DigestValue>
+    </hash>
+  </file>
+  <file name="zelda\Resources\emptyheart.png" size="535">
+    <hash>
+      <dsig:Transforms>
+        <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+      </dsig:Transforms>
+      <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
+      <dsig:DigestValue>OBstMosVMZTOzllMQEspslUbSMVIuBrvD+H4LboJZpM=</dsig:DigestValue>
+    </hash>
+  </file>
+  <file name="zelda\Resources\enemy.png" size="294">
+    <hash>
+      <dsig:Transforms>
+        <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+      </dsig:Transforms>
+      <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
+      <dsig:DigestValue>BvzCd1PPaHb/tVB6CPi9mRl3Ci/NQDDIEzKeN6Wwtyc=</dsig:DigestValue>
+    </hash>
+  </file>
+  <file name="zelda\Resources\explosion.png" size="487">
+    <hash>
+      <dsig:Transforms>
+        <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+      </dsig:Transforms>
+      <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
+      <dsig:DigestValue>oqWsZuEOGdWRGSv22/sF+QL3/RGE902lF3zOiOq4rbM=</dsig:DigestValue>
+    </hash>
+  </file>
+  <file name="zelda\Resources\fullheart.png" size="531">
+    <hash>
+      <dsig:Transforms>
+        <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+      </dsig:Transforms>
+      <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
+      <dsig:DigestValue>g1mPLm8K4sgZLeqLMHjEpJhMk+961xwscYdmGtycs38=</dsig:DigestValue>
+    </hash>
+  </file>
+  <file name="zelda\Resources\heart.png" size="187">
+    <hash>
+      <dsig:Transforms>
+        <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+      </dsig:Transforms>
+      <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
+      <dsig:DigestValue>LhWkFD4a+h/+bfRf8AxTKgjvMEYaxRJv/UDClLSYxs0=</dsig:DigestValue>
+    </hash>
+  </file>
+  <file name="zelda\Resources\knightl.gif" size="237">
+    <hash>
+      <dsig:Transforms>
+        <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+      </dsig:Transforms>
+      <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
+      <dsig:DigestValue>TSFVquz59N9IbK/Otp+CSXnqNEzR5cw1eVgTg0HFmho=</dsig:DigestValue>
+    </hash>
+  </file>
+  <file name="zelda\Resources\knightl.png" size="315">
+    <hash>
+      <dsig:Transforms>
+        <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+      </dsig:Transforms>
+      <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
+      <dsig:DigestValue>x85GEtsmGh/zNPHdSVqcP6V2ZAQq36tl3ku9ZYneOVM=</dsig:DigestValue>
+    </hash>
+  </file>
+  <file name="zelda\Resources\knightr.gif" size="239">
+    <hash>
+      <dsig:Transforms>
+        <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+      </dsig:Transforms>
+      <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
+      <dsig:DigestValue>bnctwvcyGrTg6BbBYORjn++taqrsZE+ev9gUGPTUfs4=</dsig:DigestValue>
+    </hash>
+  </file>
+  <file name="zelda\Resources\knightr.png" size="314">
+    <hash>
+      <dsig:Transforms>
+        <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+      </dsig:Transforms>
+      <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
+      <dsig:DigestValue>82uzeNSOV3lkwEJAKuyJzl4AdwPeFG43ZYv42alupvA=</dsig:DigestValue>
+    </hash>
+  </file>
+  <file name="zelda\Resources\leftani.gif" size="238">
+    <hash>
+      <dsig:Transforms>
+        <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+      </dsig:Transforms>
+      <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
+      <dsig:DigestValue>CaGMxrPtYRFeIZB2EwFTnwSM6Q/zFNAsR+bWPAsajNc=</dsig:DigestValue>
+    </hash>
+  </file>
+  <file name="zelda\Resources\leftidle.png" size="373">
+    <hash>
+      <dsig:Transforms>
+        <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+      </dsig:Transforms>
+      <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
+      <dsig:DigestValue>xORT5gBz5NQhnyFbwqYUjMHQW9HiAAKrngcse8mBYI0=</dsig:DigestValue>
+    </hash>
+  </file>
+  <file name="zelda\Resources\linktriforce.gif" size="208">
+    <hash>
+      <dsig:Transforms>
+        <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+      </dsig:Transforms>
+      <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
+      <dsig:DigestValue>FDYYyHXtXVI+OZrGBsj8/TlR99Qlw+HmXY0E+rglGwk=</dsig:DigestValue>
+    </hash>
+  </file>
+  <file name="zelda\Resources\orleft.png" size="301">
+    <hash>
+      <dsig:Transforms>
+        <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+      </dsig:Transforms>
+      <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
+      <dsig:DigestValue>R/iZZlxAsOJ99mw8A+7Pih1YLGFCcJO48k0SdO2pOs0=</dsig:DigestValue>
+    </hash>
+  </file>
+  <file name="zelda\Resources\orright.png" size="303">
+    <hash>
+      <dsig:Transforms>
+        <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+      </dsig:Transforms>
+      <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
+      <dsig:DigestValue>11RwslS263HrF7BactDPZzb5o/q44EOrtGVA6oWV1Y8=</dsig:DigestValue>
+    </hash>
+  </file>
+  <file name="zelda\Resources\orup.png" size="290">
+    <hash>
+      <dsig:Transforms>
+        <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+      </dsig:Transforms>
+      <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
+      <dsig:DigestValue>tgJiJFnhpi24Df7anxYnrcSJA8k4M4De3wYq7EKkQdY=</dsig:DigestValue>
+    </hash>
+  </file>
+  <file name="zelda\Resources\rightani.gif" size="237">
+    <hash>
+      <dsig:Transforms>
+        <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+      </dsig:Transforms>
+      <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
+      <dsig:DigestValue>E792d9qqJYrzzHb6wJ4b68CIyrl5Hc/dj+fmwnuVLms=</dsig:DigestValue>
+    </hash>
+  </file>
+  <file name="zelda\Resources\rightidle.png" size="387">
+    <hash>
+      <dsig:Transforms>
+        <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+      </dsig:Transforms>
+      <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
+      <dsig:DigestValue>JZZRhfp/EtkRkHo8Mw+vppGnod2yb+0/nDUOyEoefqk=</dsig:DigestValue>
+    </hash>
+  </file>
+  <file name="zelda\Resources\rock.png" size="227">
+    <hash>
+      <dsig:Transforms>
+        <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+      </dsig:Transforms>
+      <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
+      <dsig:DigestValue>oCzEuoYVUKwSNx6uMAZEl51kKi4plLNNBMgA6JfrCR0=</dsig:DigestValue>
+    </hash>
+  </file>
+  <file name="zelda\Resources\rupee.png" size="236">
+    <hash>
+      <dsig:Transforms>
+        <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+      </dsig:Transforms>
+      <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
+      <dsig:DigestValue>y4/+hFhtseu4V0NlcoZ4mjwo6krzsGHC4JD0QHsOXwk=</dsig:DigestValue>
+    </hash>
+  </file>
+  <file name="zelda\Resources\shop.png" size="5593">
+    <hash>
+      <dsig:Transforms>
+        <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+      </dsig:Transforms>
+      <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
+      <dsig:DigestValue>3G3jIKt8ixs9Z+6NAmlazAqct5NR+GhyGTbLiNBxj1w=</dsig:DigestValue>
+    </hash>
+  </file>
+  <file name="zelda\Resources\skelly.gif" size="229">
+    <hash>
+      <dsig:Transforms>
+        <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+      </dsig:Transforms>
+      <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
+      <dsig:DigestValue>puHxFoDMhwZgyCLCAwCLt/FZOh8CoCBE11fQpNfmck4=</dsig:DigestValue>
+    </hash>
+  </file>
+  <file name="zelda\Resources\swingdown.png" size="434">
+    <hash>
+      <dsig:Transforms>
+        <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+      </dsig:Transforms>
+      <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
+      <dsig:DigestValue>KmcD53SxTaBNT5h8uaJp/tBRqkEE7/ax5N4w1pO2G9U=</dsig:DigestValue>
+    </hash>
+  </file>
+  <file name="zelda\Resources\swingleft.png" size="380">
+    <hash>
+      <dsig:Transforms>
+        <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+      </dsig:Transforms>
+      <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
+      <dsig:DigestValue>S8/awabpBVyDIrZe0rqLT9NkxmQvuDSriMVjC4nx8oI=</dsig:DigestValue>
+    </hash>
+  </file>
+  <file name="zelda\Resources\swingright.png" size="379">
+    <hash>
+      <dsig:Transforms>
+        <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+      </dsig:Transforms>
+      <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
+      <dsig:DigestValue>Zq6nbKIcJ2qFka/XsM09hsBmi+y3TAm0/A24jwUEryw=</dsig:DigestValue>
+    </hash>
+  </file>
+  <file name="zelda\Resources\swingright1.png" size="379">
+    <hash>
+      <dsig:Transforms>
+        <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+      </dsig:Transforms>
+      <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
+      <dsig:DigestValue>Zq6nbKIcJ2qFka/XsM09hsBmi+y3TAm0/A24jwUEryw=</dsig:DigestValue>
+    </hash>
+  </file>
+  <file name="zelda\Resources\swingup.png" size="366">
+    <hash>
+      <dsig:Transforms>
+        <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+      </dsig:Transforms>
+      <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
+      <dsig:DigestValue>kU0OzAf6OVJORkUBJQ12ENWPFPDSCZrgkepClFfmDt4=</dsig:DigestValue>
+    </hash>
+  </file>
+  <file name="zelda\Resources\sword.png" size="1402">
+    <hash>
+      <dsig:Transforms>
+        <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+      </dsig:Transforms>
+      <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
+      <dsig:DigestValue>Ap7q74l3L0bSEgNuCgpZfyklNqN3pE4yZ46tMR0/BXk=</dsig:DigestValue>
+    </hash>
+  </file>
+  <file name="zelda\Resources\swordbeamdown.png" size="205">
+    <hash>
+      <dsig:Transforms>
+        <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+      </dsig:Transforms>
+      <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
+      <dsig:DigestValue>3cg2KjZkM/FkVBThyaxNICnq6idx/zPexoyAA0f5JOQ=</dsig:DigestValue>
+    </hash>
+  </file>
+  <file name="zelda\Resources\swordbeamleft.png" size="211">
+    <hash>
+      <dsig:Transforms>
+        <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+      </dsig:Transforms>
+      <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
+      <dsig:DigestValue>AviidOLpXkGUX1NUOgNC9dsGiOEMoU1o5GVaRfzDTvo=</dsig:DigestValue>
+    </hash>
+  </file>
+  <file name="zelda\Resources\swordbeamright.png" size="211">
+    <hash>
+      <dsig:Transforms>
+        <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+      </dsig:Transforms>
+      <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
+      <dsig:DigestValue>TGL7d0LTgCu4R4LZjxaPWgBGD6TYONRczIIH6eHLVzs=</dsig:DigestValue>
+    </hash>
+  </file>
+  <file name="zelda\Resources\swordbeamup.png" size="206">
+    <hash>
+      <dsig:Transforms>
+        <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+      </dsig:Transforms>
+      <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
+      <dsig:DigestValue>p1kdynnI8agyb4koXg2H+EZwiTzgNSW1M8TiiKFoZ2w=</dsig:DigestValue>
+    </hash>
+  </file>
+  <file name="zelda\Resources\titlescreen.gif" size="28837">
+    <hash>
+      <dsig:Transforms>
+        <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+      </dsig:Transforms>
+      <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
+      <dsig:DigestValue>IZXd18AUhajsHKxpp4zpwPQ0uIGGJN85iGJZ0kKhGU4=</dsig:DigestValue>
+    </hash>
+  </file>
+  <file name="zelda\Resources\triforce.gif" size="123">
+    <hash>
+      <dsig:Transforms>
+        <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+      </dsig:Transforms>
+      <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
+      <dsig:DigestValue>N3j/xoFt1yrmEly+s8/u2AIRHQeTa4Ry3jSU+zqkYFM=</dsig:DigestValue>
+    </hash>
+  </file>
+  <file name="zelda\Resources\upani.gif" size="203">
+    <hash>
+      <dsig:Transforms>
+        <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+      </dsig:Transforms>
+      <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
+      <dsig:DigestValue>vRWENPjqQu+ZNspRPBW/uzRIq4/u+lGTH8jghGG40PU=</dsig:DigestValue>
+    </hash>
+  </file>
+  <file name="zelda\Resources\upidle.png" size="303">
+    <hash>
+      <dsig:Transforms>
+        <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+      </dsig:Transforms>
+      <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
+      <dsig:DigestValue>1ZFFq576ucoUkrA7X7WiVWxg30oc5N97ZM0o0mQAC+c=</dsig:DigestValue>
+    </hash>
+  </file>
+</asmv1:assembly>

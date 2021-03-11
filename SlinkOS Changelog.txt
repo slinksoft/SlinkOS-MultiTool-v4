@@ -1,0 +1,23 @@
+SlinkOS: MultiTool v4 Changelog
+-------------------------------
+
+WHAT IS COMING IN THE NEXT UPDATE:
+- Both the binary and hex tools will be upgraded to a more useful state. Both have not been updated since the first release of MultiTool v1 back in 2013. Changes include back and forth from common computer bases, and allowing conversion of float/double values to binary.
+- Web browser will dump the outdated IE source and use CefSharp to use a chrome-based web browser.
+- New SlinkOS terminal commands will be added, such as moving and copying files, and killing processes via process name. An easter egg may be added.
+- Maybe a watermark on startup?
+
+
+4.2-20 BETA
+- Screenshot tool has been fixed; no more blank images will be captured. In addition, the screenshot tool has been updated and improved in regards to the region screenshot capture.
+- Force click to gain focus of main menu has been removed. This change was made to ensure a more user-friendly experience
+- Menu drag speed has increased
+- Four function calculator has been improved; now with keyboard shortcuts!
+- The long-waited teased linux-feel terminal/commandline has been added! SlinkOS terminal contains a variety of commands that execute everything in the GUI (except main menu screenshot, will be fixed and reenabled in the next update), allows system information and data gathering on the computer, and allows modification of data on the computer (deleting files and directories; more commands such as moving and copying will come in a future update). NOTE: you must install SlinkOS to registry first in settings before using the terminal
+- A global hotkey can now be used to bring the main menu to the top-most position on your desktop (useful if you need the menu on top of full-screened windows). The hotkey is Alt+S
+- Various bug fixes
+- Snake...?
+
+4.0-3 BETA:
+
+- Initial release

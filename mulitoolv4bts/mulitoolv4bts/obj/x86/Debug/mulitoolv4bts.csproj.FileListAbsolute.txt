@@ -1,0 +1,536 @@
+C:\Users\Dan\AppData\Local\Temporary Projects\mulitoolv4bts\obj\x86\Debug\mulitoolv4bts.Form1.resources
+C:\Users\Dan\AppData\Local\Temporary Projects\mulitoolv4bts\obj\x86\Debug\mulitoolv4bts.Properties.Resources.resources
+C:\Users\Dan\AppData\Local\Temporary Projects\mulitoolv4bts\obj\x86\Debug\mulitoolv4bts.csproj.GenerateResource.Cache
+C:\Users\Dan\AppData\Local\Temporary Projects\mulitoolv4bts\obj\x86\Debug\multitoolv4tbs.calculator.resources
+C:\Users\Dan\AppData\Local\Temporary Projects\mulitoolv4bts\obj\x86\Debug\mulitoolv4bts.stopwatch.resources
+C:\Users\Dan\AppData\Local\Temporary Projects\mulitoolv4bts\obj\x86\Debug\mulitoolv4bts.timer.resources
+C:\Users\Dan\AppData\Local\Temporary Projects\mulitoolv4bts\bin\Debug\mulitoolv4bts.exe
+C:\Users\Dan\AppData\Local\Temporary Projects\mulitoolv4bts\bin\Debug\mulitoolv4bts.pdb
+C:\Users\Dan\AppData\Local\Temporary Projects\mulitoolv4bts\obj\x86\Debug\mulitoolv4bts.exe
+C:\Users\Dan\AppData\Local\Temporary Projects\mulitoolv4bts\obj\x86\Debug\mulitoolv4bts.pdb
+C:\Users\Dan\Documents\Programming\C# Projects\multitoolv4btsos\mulitoolv4bts\mulitoolv4bts\obj\x86\Debug\mulitoolv4bts.csproj.GenerateResource.Cache
+C:\Users\Dan\Documents\Programming\C# Projects\multitoolv4btsos\mulitoolv4bts\mulitoolv4bts\obj\x86\Debug\mulitoolv4bts.csprojResolveAssemblyReference.cache
+C:\Users\Dan\Documents\Programming\C# Projects\multitoolv4btsos\mulitoolv4bts\mulitoolv4bts\obj\x86\Debug\slinkosmtv4.Properties.Resources.resources
+C:\Users\Dan\Documents\Programming\C# Projects\multitoolv4btsos\mulitoolv4bts\mulitoolv4bts\obj\x86\Debug\slinkosmtv4.timer.resources
+C:\Users\Dan\Documents\Programming\C# Projects\multitoolv4btsos\mulitoolv4bts\mulitoolv4bts\obj\x86\Debug\slinkosmtv4.menu.resources
+C:\Users\Dan\Documents\Programming\C# Projects\multitoolv4btsos\mulitoolv4bts\mulitoolv4bts\obj\x86\Debug\slinkosmtv4.clipboardcs.resources
+C:\Users\Dan\Documents\Programming\C# Projects\multitoolv4btsos\mulitoolv4bts\mulitoolv4bts\obj\x86\Debug\slinkosmtv4.binconvert.resources
+C:\Users\Dan\Documents\Programming\C# Projects\multitoolv4btsos\mulitoolv4bts\mulitoolv4bts\obj\x86\Debug\slinkosmtv4.browser.resources
+C:\Users\Dan\Documents\Programming\C# Projects\multitoolv4btsos\mulitoolv4bts\mulitoolv4bts\obj\x86\Debug\slinkosmtv4.calculator.resources
+C:\Users\Dan\Documents\Programming\C# Projects\multitoolv4btsos\mulitoolv4bts\mulitoolv4bts\obj\x86\Debug\slinkosmtv4.cb.resources
+C:\Users\Dan\Documents\Programming\C# Projects\multitoolv4btsos\mulitoolv4bts\mulitoolv4bts\obj\x86\Debug\slinkosmtv4.censorbar.resources
+C:\Users\Dan\Documents\Programming\C# Projects\multitoolv4btsos\mulitoolv4bts\mulitoolv4bts\obj\x86\Debug\slinkosmtv4.hexconvert.resources
+C:\Users\Dan\Documents\Programming\C# Projects\multitoolv4btsos\mulitoolv4bts\mulitoolv4bts\obj\x86\Debug\slinkosmtv4.screenshot.resources
+C:\Users\Dan\Documents\Programming\C# Projects\multitoolv4btsos\mulitoolv4bts\mulitoolv4bts\obj\x86\Debug\slinkosmtv4.settings.resources
+C:\Users\Dan\Documents\Programming\C# Projects\multitoolv4btsos\mulitoolv4bts\mulitoolv4bts\obj\x86\Debug\slinkosmtv4.spammer.resources
+C:\Users\Dan\Documents\Programming\C# Projects\multitoolv4btsos\mulitoolv4bts\mulitoolv4bts\obj\x86\Debug\slinkosmtv4.ssregion.resources
+C:\Users\Dan\Documents\Programming\C# Projects\multitoolv4btsos\mulitoolv4bts\mulitoolv4bts\obj\x86\Debug\slinkosmtv4.stopwatch.resources
+C:\Users\Dan\Documents\Programming\C# Projects\multitoolv4btsos\mulitoolv4bts\mulitoolv4bts\bin\Debug\slinkosmtv4.exe
+C:\Users\Dan\Documents\Programming\C# Projects\multitoolv4btsos\mulitoolv4bts\mulitoolv4bts\bin\Debug\slinkosmtv4.pdb
+C:\Users\Dan\Documents\Programming\C# Projects\multitoolv4btsos\mulitoolv4bts\mulitoolv4bts\obj\x86\Debug\slinkosmtv4.exe
+C:\Users\Dan\Documents\Programming\C# Projects\multitoolv4btsos\mulitoolv4bts\mulitoolv4bts\obj\x86\Debug\slinkosmtv4.pdb
+C:\Users\Dan\Documents\Programming\C# Projects\multitoolv4btsos\mulitoolv4bts\mulitoolv4bts\bin\Debug\slinkosmtv4.exe.config
+C:\Users\Dan\Documents\Programming\C# Projects\multitoolv4btsos - Copy\mulitoolv4bts\mulitoolv4bts\bin\Debug\cef.pak
+C:\Users\Dan\Documents\Programming\C# Projects\multitoolv4btsos - Copy\mulitoolv4bts\mulitoolv4bts\bin\Debug\cef_100_percent.pak
+C:\Users\Dan\Documents\Programming\C# Projects\multitoolv4btsos - Copy\mulitoolv4bts\mulitoolv4bts\bin\Debug\cef_200_percent.pak
+C:\Users\Dan\Documents\Programming\C# Projects\multitoolv4btsos - Copy\mulitoolv4bts\mulitoolv4bts\bin\Debug\cef_extensions.pak
+C:\Users\Dan\Documents\Programming\C# Projects\multitoolv4btsos - Copy\mulitoolv4bts\mulitoolv4bts\bin\Debug\chrome_elf.dll
+C:\Users\Dan\Documents\Programming\C# Projects\multitoolv4btsos - Copy\mulitoolv4bts\mulitoolv4bts\bin\Debug\d3dcompiler_47.dll
+C:\Users\Dan\Documents\Programming\C# Projects\multitoolv4btsos - Copy\mulitoolv4bts\mulitoolv4bts\bin\Debug\devtools_resources.pak
+C:\Users\Dan\Documents\Programming\C# Projects\multitoolv4btsos - Copy\mulitoolv4bts\mulitoolv4bts\bin\Debug\icudtl.dat
+C:\Users\Dan\Documents\Programming\C# Projects\multitoolv4btsos - Copy\mulitoolv4bts\mulitoolv4bts\bin\Debug\libcef.dll
+C:\Users\Dan\Documents\Programming\C# Projects\multitoolv4btsos - Copy\mulitoolv4bts\mulitoolv4bts\bin\Debug\libEGL.dll
+C:\Users\Dan\Documents\Programming\C# Projects\multitoolv4btsos - Copy\mulitoolv4bts\mulitoolv4bts\bin\Debug\libGLESv2.dll
+C:\Users\Dan\Documents\Programming\C# Projects\multitoolv4btsos - Copy\mulitoolv4bts\mulitoolv4bts\bin\Debug\locales\am.pak
+C:\Users\Dan\Documents\Programming\C# Projects\multitoolv4btsos - Copy\mulitoolv4bts\mulitoolv4bts\bin\Debug\locales\ar.pak
+C:\Users\Dan\Documents\Programming\C# Projects\multitoolv4btsos - Copy\mulitoolv4bts\mulitoolv4bts\bin\Debug\locales\bg.pak
+C:\Users\Dan\Documents\Programming\C# Projects\multitoolv4btsos - Copy\mulitoolv4bts\mulitoolv4bts\bin\Debug\locales\bn.pak
+C:\Users\Dan\Documents\Programming\C# Projects\multitoolv4btsos - Copy\mulitoolv4bts\mulitoolv4bts\bin\Debug\locales\ca.pak
+C:\Users\Dan\Documents\Programming\C# Projects\multitoolv4btsos - Copy\mulitoolv4bts\mulitoolv4bts\bin\Debug\locales\cs.pak
+C:\Users\Dan\Documents\Programming\C# Projects\multitoolv4btsos - Copy\mulitoolv4bts\mulitoolv4bts\bin\Debug\locales\da.pak
+C:\Users\Dan\Documents\Programming\C# Projects\multitoolv4btsos - Copy\mulitoolv4bts\mulitoolv4bts\bin\Debug\locales\de.pak
+C:\Users\Dan\Documents\Programming\C# Projects\multitoolv4btsos - Copy\mulitoolv4bts\mulitoolv4bts\bin\Debug\locales\el.pak
+C:\Users\Dan\Documents\Programming\C# Projects\multitoolv4btsos - Copy\mulitoolv4bts\mulitoolv4bts\bin\Debug\locales\en-GB.pak
+C:\Users\Dan\Documents\Programming\C# Projects\multitoolv4btsos - Copy\mulitoolv4bts\mulitoolv4bts\bin\Debug\locales\en-US.pak
+C:\Users\Dan\Documents\Programming\C# Projects\multitoolv4btsos - Copy\mulitoolv4bts\mulitoolv4bts\bin\Debug\locales\es-419.pak
+C:\Users\Dan\Documents\Programming\C# Projects\multitoolv4btsos - Copy\mulitoolv4bts\mulitoolv4bts\bin\Debug\locales\es.pak
+C:\Users\Dan\Documents\Programming\C# Projects\multitoolv4btsos - Copy\mulitoolv4bts\mulitoolv4bts\bin\Debug\locales\et.pak
+C:\Users\Dan\Documents\Programming\C# Projects\multitoolv4btsos - Copy\mulitoolv4bts\mulitoolv4bts\bin\Debug\locales\fa.pak
+C:\Users\Dan\Documents\Programming\C# Projects\multitoolv4btsos - Copy\mulitoolv4bts\mulitoolv4bts\bin\Debug\locales\fi.pak
+C:\Users\Dan\Documents\Programming\C# Projects\multitoolv4btsos - Copy\mulitoolv4bts\mulitoolv4bts\bin\Debug\locales\fil.pak
+C:\Users\Dan\Documents\Programming\C# Projects\multitoolv4btsos - Copy\mulitoolv4bts\mulitoolv4bts\bin\Debug\locales\fr.pak
+C:\Users\Dan\Documents\Programming\C# Projects\multitoolv4btsos - Copy\mulitoolv4bts\mulitoolv4bts\bin\Debug\locales\gu.pak
+C:\Users\Dan\Documents\Programming\C# Projects\multitoolv4btsos - Copy\mulitoolv4bts\mulitoolv4bts\bin\Debug\locales\he.pak
+C:\Users\Dan\Documents\Programming\C# Projects\multitoolv4btsos - Copy\mulitoolv4bts\mulitoolv4bts\bin\Debug\locales\hi.pak
+C:\Users\Dan\Documents\Programming\C# Projects\multitoolv4btsos - Copy\mulitoolv4bts\mulitoolv4bts\bin\Debug\locales\hr.pak
+C:\Users\Dan\Documents\Programming\C# Projects\multitoolv4btsos - Copy\mulitoolv4bts\mulitoolv4bts\bin\Debug\locales\hu.pak
+C:\Users\Dan\Documents\Programming\C# Projects\multitoolv4btsos - Copy\mulitoolv4bts\mulitoolv4bts\bin\Debug\locales\id.pak
+C:\Users\Dan\Documents\Programming\C# Projects\multitoolv4btsos - Copy\mulitoolv4bts\mulitoolv4bts\bin\Debug\locales\it.pak
+C:\Users\Dan\Documents\Programming\C# Projects\multitoolv4btsos - Copy\mulitoolv4bts\mulitoolv4bts\bin\Debug\locales\ja.pak
+C:\Users\Dan\Documents\Programming\C# Projects\multitoolv4btsos - Copy\mulitoolv4bts\mulitoolv4bts\bin\Debug\locales\kn.pak
+C:\Users\Dan\Documents\Programming\C# Projects\multitoolv4btsos - Copy\mulitoolv4bts\mulitoolv4bts\bin\Debug\locales\ko.pak
+C:\Users\Dan\Documents\Programming\C# Projects\multitoolv4btsos - Copy\mulitoolv4bts\mulitoolv4bts\bin\Debug\locales\lt.pak
+C:\Users\Dan\Documents\Programming\C# Projects\multitoolv4btsos - Copy\mulitoolv4bts\mulitoolv4bts\bin\Debug\locales\lv.pak
+C:\Users\Dan\Documents\Programming\C# Projects\multitoolv4btsos - Copy\mulitoolv4bts\mulitoolv4bts\bin\Debug\locales\ml.pak
+C:\Users\Dan\Documents\Programming\C# Projects\multitoolv4btsos - Copy\mulitoolv4bts\mulitoolv4bts\bin\Debug\locales\mr.pak
+C:\Users\Dan\Documents\Programming\C# Projects\multitoolv4btsos - Copy\mulitoolv4bts\mulitoolv4bts\bin\Debug\locales\ms.pak
+C:\Users\Dan\Documents\Programming\C# Projects\multitoolv4btsos - Copy\mulitoolv4bts\mulitoolv4bts\bin\Debug\locales\nb.pak
+C:\Users\Dan\Documents\Programming\C# Projects\multitoolv4btsos - Copy\mulitoolv4bts\mulitoolv4bts\bin\Debug\locales\nl.pak
+C:\Users\Dan\Documents\Programming\C# Projects\multitoolv4btsos - Copy\mulitoolv4bts\mulitoolv4bts\bin\Debug\locales\pl.pak
+C:\Users\Dan\Documents\Programming\C# Projects\multitoolv4btsos - Copy\mulitoolv4bts\mulitoolv4bts\bin\Debug\locales\pt-BR.pak
+C:\Users\Dan\Documents\Programming\C# Projects\multitoolv4btsos - Copy\mulitoolv4bts\mulitoolv4bts\bin\Debug\locales\pt-PT.pak
+C:\Users\Dan\Documents\Programming\C# Projects\multitoolv4btsos - Copy\mulitoolv4bts\mulitoolv4bts\bin\Debug\locales\ro.pak
+C:\Users\Dan\Documents\Programming\C# Projects\multitoolv4btsos - Copy\mulitoolv4bts\mulitoolv4bts\bin\Debug\locales\ru.pak
+C:\Users\Dan\Documents\Programming\C# Projects\multitoolv4btsos - Copy\mulitoolv4bts\mulitoolv4bts\bin\Debug\locales\sk.pak
+C:\Users\Dan\Documents\Programming\C# Projects\multitoolv4btsos - Copy\mulitoolv4bts\mulitoolv4bts\bin\Debug\locales\sl.pak
+C:\Users\Dan\Documents\Programming\C# Projects\multitoolv4btsos - Copy\mulitoolv4bts\mulitoolv4bts\bin\Debug\locales\sr.pak
+C:\Users\Dan\Documents\Programming\C# Projects\multitoolv4btsos - Copy\mulitoolv4bts\mulitoolv4bts\bin\Debug\locales\sv.pak
+C:\Users\Dan\Documents\Programming\C# Projects\multitoolv4btsos - Copy\mulitoolv4bts\mulitoolv4bts\bin\Debug\locales\sw.pak
+C:\Users\Dan\Documents\Programming\C# Projects\multitoolv4btsos - Copy\mulitoolv4bts\mulitoolv4bts\bin\Debug\locales\ta.pak
+C:\Users\Dan\Documents\Programming\C# Projects\multitoolv4btsos - Copy\mulitoolv4bts\mulitoolv4bts\bin\Debug\locales\te.pak
+C:\Users\Dan\Documents\Programming\C# Projects\multitoolv4btsos - Copy\mulitoolv4bts\mulitoolv4bts\bin\Debug\locales\th.pak
+C:\Users\Dan\Documents\Programming\C# Projects\multitoolv4btsos - Copy\mulitoolv4bts\mulitoolv4bts\bin\Debug\locales\tr.pak
+C:\Users\Dan\Documents\Programming\C# Projects\multitoolv4btsos - Copy\mulitoolv4bts\mulitoolv4bts\bin\Debug\locales\uk.pak
+C:\Users\Dan\Documents\Programming\C# Projects\multitoolv4btsos - Copy\mulitoolv4bts\mulitoolv4bts\bin\Debug\locales\vi.pak
+C:\Users\Dan\Documents\Programming\C# Projects\multitoolv4btsos - Copy\mulitoolv4bts\mulitoolv4bts\bin\Debug\locales\zh-CN.pak
+C:\Users\Dan\Documents\Programming\C# Projects\multitoolv4btsos - Copy\mulitoolv4bts\mulitoolv4bts\bin\Debug\locales\zh-TW.pak
+C:\Users\Dan\Documents\Programming\C# Projects\multitoolv4btsos - Copy\mulitoolv4bts\mulitoolv4bts\bin\Debug\natives_blob.bin
+C:\Users\Dan\Documents\Programming\C# Projects\multitoolv4btsos - Copy\mulitoolv4bts\mulitoolv4bts\bin\Debug\README.txt
+C:\Users\Dan\Documents\Programming\C# Projects\multitoolv4btsos - Copy\mulitoolv4bts\mulitoolv4bts\bin\Debug\snapshot_blob.bin
+C:\Users\Dan\Documents\Programming\C# Projects\multitoolv4btsos - Copy\mulitoolv4bts\mulitoolv4bts\bin\Debug\swiftshader\libEGL.dll
+C:\Users\Dan\Documents\Programming\C# Projects\multitoolv4btsos - Copy\mulitoolv4bts\mulitoolv4bts\bin\Debug\swiftshader\libGLESv2.dll
+C:\Users\Dan\Documents\Programming\C# Projects\multitoolv4btsos - Copy\mulitoolv4bts\mulitoolv4bts\bin\Debug\v8_context_snapshot.bin
+C:\Users\Dan\Documents\Programming\C# Projects\multitoolv4btsos - Copy\mulitoolv4bts\mulitoolv4bts\bin\Debug\CefSharp.BrowserSubprocess.Core.dll
+C:\Users\Dan\Documents\Programming\C# Projects\multitoolv4btsos - Copy\mulitoolv4bts\mulitoolv4bts\bin\Debug\CefSharp.BrowserSubprocess.Core.pdb
+C:\Users\Dan\Documents\Programming\C# Projects\multitoolv4btsos - Copy\mulitoolv4bts\mulitoolv4bts\bin\Debug\CefSharp.BrowserSubprocess.exe
+C:\Users\Dan\Documents\Programming\C# Projects\multitoolv4btsos - Copy\mulitoolv4bts\mulitoolv4bts\bin\Debug\CefSharp.BrowserSubprocess.pdb
+C:\Users\Dan\Documents\Programming\C# Projects\multitoolv4btsos - Copy\mulitoolv4bts\mulitoolv4bts\bin\Debug\CefSharp.Core.dll
+C:\Users\Dan\Documents\Programming\C# Projects\multitoolv4btsos - Copy\mulitoolv4bts\mulitoolv4bts\bin\Debug\CefSharp.Core.pdb
+C:\Users\Dan\Documents\Programming\C# Projects\multitoolv4btsos - Copy\mulitoolv4bts\mulitoolv4bts\bin\Debug\CefSharp.Core.xml
+C:\Users\Dan\Documents\Programming\C# Projects\multitoolv4btsos - Copy\mulitoolv4bts\mulitoolv4bts\bin\Debug\CefSharp.dll
+C:\Users\Dan\Documents\Programming\C# Projects\multitoolv4btsos - Copy\mulitoolv4bts\mulitoolv4bts\bin\Debug\CefSharp.pdb
+C:\Users\Dan\Documents\Programming\C# Projects\multitoolv4btsos - Copy\mulitoolv4bts\mulitoolv4bts\bin\Debug\CefSharp.XML
+C:\Users\Dan\Documents\Programming\C# Projects\multitoolv4btsos - Copy\mulitoolv4bts\mulitoolv4bts\bin\Debug\CefSharp.WinForms.dll
+C:\Users\Dan\Documents\Programming\C# Projects\multitoolv4btsos - Copy\mulitoolv4bts\mulitoolv4bts\bin\Debug\CefSharp.WinForms.pdb
+C:\Users\Dan\Documents\Programming\C# Projects\multitoolv4btsos - Copy\mulitoolv4bts\mulitoolv4bts\bin\Debug\CefSharp.WinForms.XML
+C:\Users\Dan\Documents\Programming\C# Projects\multitoolv4btsos - Copy\mulitoolv4bts\mulitoolv4bts\bin\Debug\slinkosmtv4.exe.config
+C:\Users\Dan\Documents\Programming\C# Projects\multitoolv4btsos - Copy\mulitoolv4bts\mulitoolv4bts\bin\Debug\slinkosmtv4.exe
+C:\Users\Dan\Documents\Programming\C# Projects\multitoolv4btsos - Copy\mulitoolv4bts\mulitoolv4bts\bin\Debug\slinkosmtv4.pdb
+C:\Users\Dan\Documents\Programming\C# Projects\multitoolv4btsos - Copy\mulitoolv4bts\mulitoolv4bts\bin\Debug\Interop.WMPLib.dll
+C:\Users\Dan\Documents\Programming\C# Projects\multitoolv4btsos - Copy\mulitoolv4bts\mulitoolv4bts\bin\Debug\AxInterop.WMPLib.dll
+C:\Users\Dan\Documents\Programming\C# Projects\multitoolv4btsos - Copy\mulitoolv4bts\mulitoolv4bts\obj\x86\Debug\Interop.WMPLib.dll
+C:\Users\Dan\Documents\Programming\C# Projects\multitoolv4btsos - Copy\mulitoolv4bts\mulitoolv4bts\obj\x86\Debug\AxInterop.WMPLib.dll
+C:\Users\Dan\Documents\Programming\C# Projects\multitoolv4btsos - Copy\mulitoolv4bts\mulitoolv4bts\obj\x86\Debug\mulitoolv4bts.csproj.ResolveComReference.cache
+C:\Users\Dan\Documents\Programming\C# Projects\multitoolv4btsos - Copy\mulitoolv4bts\mulitoolv4bts\obj\x86\Debug\slinkosmtv4.dataConversion.resources
+C:\Users\Dan\Documents\Programming\C# Projects\multitoolv4btsos - Copy\mulitoolv4bts\mulitoolv4bts\obj\x86\Debug\slinkosmtv4.browser.resources
+C:\Users\Dan\Documents\Programming\C# Projects\multitoolv4btsos - Copy\mulitoolv4bts\mulitoolv4bts\obj\x86\Debug\slinkosmtv4.calculator.resources
+C:\Users\Dan\Documents\Programming\C# Projects\multitoolv4btsos - Copy\mulitoolv4bts\mulitoolv4bts\obj\x86\Debug\slinkosmtv4.cb.resources
+C:\Users\Dan\Documents\Programming\C# Projects\multitoolv4btsos - Copy\mulitoolv4bts\mulitoolv4bts\obj\x86\Debug\slinkosmtv4.censorbar.resources
+C:\Users\Dan\Documents\Programming\C# Projects\multitoolv4btsos - Copy\mulitoolv4bts\mulitoolv4bts\obj\x86\Debug\slinkosmtv4.clipboardcs.resources
+C:\Users\Dan\Documents\Programming\C# Projects\multitoolv4btsos - Copy\mulitoolv4bts\mulitoolv4bts\obj\x86\Debug\slinkosmtv4.menu.resources
+C:\Users\Dan\Documents\Programming\C# Projects\multitoolv4btsos - Copy\mulitoolv4bts\mulitoolv4bts\obj\x86\Debug\slinkosmtv4.hexconvert.resources
+C:\Users\Dan\Documents\Programming\C# Projects\multitoolv4btsos - Copy\mulitoolv4bts\mulitoolv4bts\obj\x86\Debug\slinkosmtv4.performance.resources
+C:\Users\Dan\Documents\Programming\C# Projects\multitoolv4btsos - Copy\mulitoolv4bts\mulitoolv4bts\obj\x86\Debug\slinkosmtv4.Properties.Resources.resources
+C:\Users\Dan\Documents\Programming\C# Projects\multitoolv4btsos - Copy\mulitoolv4bts\mulitoolv4bts\obj\x86\Debug\slinkosmtv4.screenshot.resources
+C:\Users\Dan\Documents\Programming\C# Projects\multitoolv4btsos - Copy\mulitoolv4bts\mulitoolv4bts\obj\x86\Debug\slinkosmtv4.settings.resources
+C:\Users\Dan\Documents\Programming\C# Projects\multitoolv4btsos - Copy\mulitoolv4bts\mulitoolv4bts\obj\x86\Debug\snake.gameCanvas.resources
+C:\Users\Dan\Documents\Programming\C# Projects\multitoolv4btsos - Copy\mulitoolv4bts\mulitoolv4bts\obj\x86\Debug\slinkosmtv4.spammer.resources
+C:\Users\Dan\Documents\Programming\C# Projects\multitoolv4btsos - Copy\mulitoolv4bts\mulitoolv4bts\obj\x86\Debug\slinkosmtv4.ssregion.resources
+C:\Users\Dan\Documents\Programming\C# Projects\multitoolv4btsos - Copy\mulitoolv4bts\mulitoolv4bts\obj\x86\Debug\slinkosmtv4.stopwatch.resources
+C:\Users\Dan\Documents\Programming\C# Projects\multitoolv4btsos - Copy\mulitoolv4bts\mulitoolv4bts\obj\x86\Debug\slinkosmtv4.timer.resources
+C:\Users\Dan\Documents\Programming\C# Projects\multitoolv4btsos - Copy\mulitoolv4bts\mulitoolv4bts\obj\x86\Debug\slinkosmtv4.zelda.Properties.Resources.resources
+C:\Users\Dan\Documents\Programming\C# Projects\multitoolv4btsos - Copy\mulitoolv4bts\mulitoolv4bts\obj\x86\Debug\mulitoolv4bts.csproj.GenerateResource.cache
+C:\Users\Dan\Documents\Programming\C# Projects\multitoolv4btsos - Copy\mulitoolv4bts\mulitoolv4bts\obj\x86\Debug\mulitoolv4bts.csproj.CoreCompileInputs.cache
+C:\Users\Dan\Documents\Programming\C# Projects\multitoolv4btsos - Copy\mulitoolv4bts\mulitoolv4bts\obj\x86\Debug\slinkosmtv4.exe
+C:\Users\Dan\Documents\Programming\C# Projects\multitoolv4btsos - Copy\mulitoolv4bts\mulitoolv4bts\obj\x86\Debug\slinkosmtv4.pdb
+C:\Users\Dan\Documents\Programming\C# Projects\multitoolv4btsos - Copy\mulitoolv4bts\mulitoolv4bts\obj\x86\Debug\slinkosmtv4.zelda.game.resources
+C:\Users\Dan\Documents\Programming\C# Projects\multitoolv4btsos - Copy\mulitoolv4bts\mulitoolv4bts\obj\x86\Debug\slinkosmtv4.zelda.credits.resources
+C:\Users\Dan\Documents\Programming\C# Projects\multitoolv4btsos - Copy\mulitoolv4bts\mulitoolv4bts\bin\Debug\slinkosmtv4.exe.manifest
+C:\Users\Dan\Documents\Programming\C# Projects\multitoolv4btsos - Copy\mulitoolv4bts\mulitoolv4bts\bin\Debug\slinkosmtv4.application
+C:\Users\Dan\Documents\Programming\C# Projects\multitoolv4btsos - Copy\mulitoolv4bts\mulitoolv4bts\obj\x86\Debug\slinkosmtv4.exe.manifest
+C:\Users\Dan\Documents\Programming\C# Projects\multitoolv4btsos - Copy\mulitoolv4bts\mulitoolv4bts\obj\x86\Debug\slinkosmtv4.application
+C:\Users\Dan\Documents\Programming\C# Projects\multitoolv4btsos - Copy\mulitoolv4bts\mulitoolv4bts\obj\x86\Debug\slinkosmtv4.slinkoscredits.resources
+C:\Users\Dan\Documents\Programming\C# Projects\multitoolv4btsos - Copy\mulitoolv4bts\mulitoolv4bts\obj\x86\Debug\slinkosmtv4.SplashScreen.resources
+C:\Users\Dan\Documents\multitoolv4btsos - Copy\mulitoolv4bts\mulitoolv4bts\bin\Debug\cef.pak
+C:\Users\Dan\Documents\multitoolv4btsos - Copy\mulitoolv4bts\mulitoolv4bts\bin\Debug\cef_100_percent.pak
+C:\Users\Dan\Documents\multitoolv4btsos - Copy\mulitoolv4bts\mulitoolv4bts\bin\Debug\cef_200_percent.pak
+C:\Users\Dan\Documents\multitoolv4btsos - Copy\mulitoolv4bts\mulitoolv4bts\bin\Debug\cef_extensions.pak
+C:\Users\Dan\Documents\multitoolv4btsos - Copy\mulitoolv4bts\mulitoolv4bts\bin\Debug\chrome_elf.dll
+C:\Users\Dan\Documents\multitoolv4btsos - Copy\mulitoolv4bts\mulitoolv4bts\bin\Debug\d3dcompiler_47.dll
+C:\Users\Dan\Documents\multitoolv4btsos - Copy\mulitoolv4bts\mulitoolv4bts\bin\Debug\devtools_resources.pak
+C:\Users\Dan\Documents\multitoolv4btsos - Copy\mulitoolv4bts\mulitoolv4bts\bin\Debug\icudtl.dat
+C:\Users\Dan\Documents\multitoolv4btsos - Copy\mulitoolv4bts\mulitoolv4bts\bin\Debug\libcef.dll
+C:\Users\Dan\Documents\multitoolv4btsos - Copy\mulitoolv4bts\mulitoolv4bts\bin\Debug\libEGL.dll
+C:\Users\Dan\Documents\multitoolv4btsos - Copy\mulitoolv4bts\mulitoolv4bts\bin\Debug\libGLESv2.dll
+C:\Users\Dan\Documents\multitoolv4btsos - Copy\mulitoolv4bts\mulitoolv4bts\bin\Debug\locales\am.pak
+C:\Users\Dan\Documents\multitoolv4btsos - Copy\mulitoolv4bts\mulitoolv4bts\bin\Debug\locales\ar.pak
+C:\Users\Dan\Documents\multitoolv4btsos - Copy\mulitoolv4bts\mulitoolv4bts\bin\Debug\locales\bg.pak
+C:\Users\Dan\Documents\multitoolv4btsos - Copy\mulitoolv4bts\mulitoolv4bts\bin\Debug\locales\bn.pak
+C:\Users\Dan\Documents\multitoolv4btsos - Copy\mulitoolv4bts\mulitoolv4bts\bin\Debug\locales\ca.pak
+C:\Users\Dan\Documents\multitoolv4btsos - Copy\mulitoolv4bts\mulitoolv4bts\bin\Debug\locales\cs.pak
+C:\Users\Dan\Documents\multitoolv4btsos - Copy\mulitoolv4bts\mulitoolv4bts\bin\Debug\locales\da.pak
+C:\Users\Dan\Documents\multitoolv4btsos - Copy\mulitoolv4bts\mulitoolv4bts\bin\Debug\locales\de.pak
+C:\Users\Dan\Documents\multitoolv4btsos - Copy\mulitoolv4bts\mulitoolv4bts\bin\Debug\locales\el.pak
+C:\Users\Dan\Documents\multitoolv4btsos - Copy\mulitoolv4bts\mulitoolv4bts\bin\Debug\locales\en-GB.pak
+C:\Users\Dan\Documents\multitoolv4btsos - Copy\mulitoolv4bts\mulitoolv4bts\bin\Debug\locales\en-US.pak
+C:\Users\Dan\Documents\multitoolv4btsos - Copy\mulitoolv4bts\mulitoolv4bts\bin\Debug\locales\es-419.pak
+C:\Users\Dan\Documents\multitoolv4btsos - Copy\mulitoolv4bts\mulitoolv4bts\bin\Debug\locales\es.pak
+C:\Users\Dan\Documents\multitoolv4btsos - Copy\mulitoolv4bts\mulitoolv4bts\bin\Debug\locales\et.pak
+C:\Users\Dan\Documents\multitoolv4btsos - Copy\mulitoolv4bts\mulitoolv4bts\bin\Debug\locales\fa.pak
+C:\Users\Dan\Documents\multitoolv4btsos - Copy\mulitoolv4bts\mulitoolv4bts\bin\Debug\locales\fi.pak
+C:\Users\Dan\Documents\multitoolv4btsos - Copy\mulitoolv4bts\mulitoolv4bts\bin\Debug\locales\fil.pak
+C:\Users\Dan\Documents\multitoolv4btsos - Copy\mulitoolv4bts\mulitoolv4bts\bin\Debug\locales\fr.pak
+C:\Users\Dan\Documents\multitoolv4btsos - Copy\mulitoolv4bts\mulitoolv4bts\bin\Debug\locales\gu.pak
+C:\Users\Dan\Documents\multitoolv4btsos - Copy\mulitoolv4bts\mulitoolv4bts\bin\Debug\locales\he.pak
+C:\Users\Dan\Documents\multitoolv4btsos - Copy\mulitoolv4bts\mulitoolv4bts\bin\Debug\locales\hi.pak
+C:\Users\Dan\Documents\multitoolv4btsos - Copy\mulitoolv4bts\mulitoolv4bts\bin\Debug\locales\hr.pak
+C:\Users\Dan\Documents\multitoolv4btsos - Copy\mulitoolv4bts\mulitoolv4bts\bin\Debug\locales\hu.pak
+C:\Users\Dan\Documents\multitoolv4btsos - Copy\mulitoolv4bts\mulitoolv4bts\bin\Debug\locales\id.pak
+C:\Users\Dan\Documents\multitoolv4btsos - Copy\mulitoolv4bts\mulitoolv4bts\bin\Debug\locales\it.pak
+C:\Users\Dan\Documents\multitoolv4btsos - Copy\mulitoolv4bts\mulitoolv4bts\bin\Debug\locales\ja.pak
+C:\Users\Dan\Documents\multitoolv4btsos - Copy\mulitoolv4bts\mulitoolv4bts\bin\Debug\locales\kn.pak
+C:\Users\Dan\Documents\multitoolv4btsos - Copy\mulitoolv4bts\mulitoolv4bts\bin\Debug\locales\ko.pak
+C:\Users\Dan\Documents\multitoolv4btsos - Copy\mulitoolv4bts\mulitoolv4bts\bin\Debug\locales\lt.pak
+C:\Users\Dan\Documents\multitoolv4btsos - Copy\mulitoolv4bts\mulitoolv4bts\bin\Debug\locales\lv.pak
+C:\Users\Dan\Documents\multitoolv4btsos - Copy\mulitoolv4bts\mulitoolv4bts\bin\Debug\locales\ml.pak
+C:\Users\Dan\Documents\multitoolv4btsos - Copy\mulitoolv4bts\mulitoolv4bts\bin\Debug\locales\mr.pak
+C:\Users\Dan\Documents\multitoolv4btsos - Copy\mulitoolv4bts\mulitoolv4bts\bin\Debug\locales\ms.pak
+C:\Users\Dan\Documents\multitoolv4btsos - Copy\mulitoolv4bts\mulitoolv4bts\bin\Debug\locales\nb.pak
+C:\Users\Dan\Documents\multitoolv4btsos - Copy\mulitoolv4bts\mulitoolv4bts\bin\Debug\locales\nl.pak
+C:\Users\Dan\Documents\multitoolv4btsos - Copy\mulitoolv4bts\mulitoolv4bts\bin\Debug\locales\pl.pak
+C:\Users\Dan\Documents\multitoolv4btsos - Copy\mulitoolv4bts\mulitoolv4bts\bin\Debug\locales\pt-BR.pak
+C:\Users\Dan\Documents\multitoolv4btsos - Copy\mulitoolv4bts\mulitoolv4bts\bin\Debug\locales\pt-PT.pak
+C:\Users\Dan\Documents\multitoolv4btsos - Copy\mulitoolv4bts\mulitoolv4bts\bin\Debug\locales\ro.pak
+C:\Users\Dan\Documents\multitoolv4btsos - Copy\mulitoolv4bts\mulitoolv4bts\bin\Debug\locales\ru.pak
+C:\Users\Dan\Documents\multitoolv4btsos - Copy\mulitoolv4bts\mulitoolv4bts\bin\Debug\locales\sk.pak
+C:\Users\Dan\Documents\multitoolv4btsos - Copy\mulitoolv4bts\mulitoolv4bts\bin\Debug\locales\sl.pak
+C:\Users\Dan\Documents\multitoolv4btsos - Copy\mulitoolv4bts\mulitoolv4bts\bin\Debug\locales\sr.pak
+C:\Users\Dan\Documents\multitoolv4btsos - Copy\mulitoolv4bts\mulitoolv4bts\bin\Debug\locales\sv.pak
+C:\Users\Dan\Documents\multitoolv4btsos - Copy\mulitoolv4bts\mulitoolv4bts\bin\Debug\locales\sw.pak
+C:\Users\Dan\Documents\multitoolv4btsos - Copy\mulitoolv4bts\mulitoolv4bts\bin\Debug\locales\ta.pak
+C:\Users\Dan\Documents\multitoolv4btsos - Copy\mulitoolv4bts\mulitoolv4bts\bin\Debug\locales\te.pak
+C:\Users\Dan\Documents\multitoolv4btsos - Copy\mulitoolv4bts\mulitoolv4bts\bin\Debug\locales\th.pak
+C:\Users\Dan\Documents\multitoolv4btsos - Copy\mulitoolv4bts\mulitoolv4bts\bin\Debug\locales\tr.pak
+C:\Users\Dan\Documents\multitoolv4btsos - Copy\mulitoolv4bts\mulitoolv4bts\bin\Debug\locales\uk.pak
+C:\Users\Dan\Documents\multitoolv4btsos - Copy\mulitoolv4bts\mulitoolv4bts\bin\Debug\locales\vi.pak
+C:\Users\Dan\Documents\multitoolv4btsos - Copy\mulitoolv4bts\mulitoolv4bts\bin\Debug\locales\zh-CN.pak
+C:\Users\Dan\Documents\multitoolv4btsos - Copy\mulitoolv4bts\mulitoolv4bts\bin\Debug\locales\zh-TW.pak
+C:\Users\Dan\Documents\multitoolv4btsos - Copy\mulitoolv4bts\mulitoolv4bts\bin\Debug\natives_blob.bin
+C:\Users\Dan\Documents\multitoolv4btsos - Copy\mulitoolv4bts\mulitoolv4bts\bin\Debug\README.txt
+C:\Users\Dan\Documents\multitoolv4btsos - Copy\mulitoolv4bts\mulitoolv4bts\bin\Debug\snapshot_blob.bin
+C:\Users\Dan\Documents\multitoolv4btsos - Copy\mulitoolv4bts\mulitoolv4bts\bin\Debug\swiftshader\libEGL.dll
+C:\Users\Dan\Documents\multitoolv4btsos - Copy\mulitoolv4bts\mulitoolv4bts\bin\Debug\swiftshader\libGLESv2.dll
+C:\Users\Dan\Documents\multitoolv4btsos - Copy\mulitoolv4bts\mulitoolv4bts\bin\Debug\v8_context_snapshot.bin
+C:\Users\Dan\Documents\multitoolv4btsos - Copy\mulitoolv4bts\mulitoolv4bts\bin\Debug\CefSharp.BrowserSubprocess.Core.dll
+C:\Users\Dan\Documents\multitoolv4btsos - Copy\mulitoolv4bts\mulitoolv4bts\bin\Debug\CefSharp.BrowserSubprocess.Core.pdb
+C:\Users\Dan\Documents\multitoolv4btsos - Copy\mulitoolv4bts\mulitoolv4bts\bin\Debug\CefSharp.BrowserSubprocess.exe
+C:\Users\Dan\Documents\multitoolv4btsos - Copy\mulitoolv4bts\mulitoolv4bts\bin\Debug\CefSharp.BrowserSubprocess.pdb
+C:\Users\Dan\Documents\multitoolv4btsos - Copy\mulitoolv4bts\mulitoolv4bts\bin\Debug\CefSharp.Core.dll
+C:\Users\Dan\Documents\multitoolv4btsos - Copy\mulitoolv4bts\mulitoolv4bts\bin\Debug\CefSharp.Core.pdb
+C:\Users\Dan\Documents\multitoolv4btsos - Copy\mulitoolv4bts\mulitoolv4bts\bin\Debug\CefSharp.Core.xml
+C:\Users\Dan\Documents\multitoolv4btsos - Copy\mulitoolv4bts\mulitoolv4bts\bin\Debug\CefSharp.dll
+C:\Users\Dan\Documents\multitoolv4btsos - Copy\mulitoolv4bts\mulitoolv4bts\bin\Debug\CefSharp.pdb
+C:\Users\Dan\Documents\multitoolv4btsos - Copy\mulitoolv4bts\mulitoolv4bts\bin\Debug\CefSharp.XML
+C:\Users\Dan\Documents\multitoolv4btsos - Copy\mulitoolv4bts\mulitoolv4bts\bin\Debug\CefSharp.WinForms.dll
+C:\Users\Dan\Documents\multitoolv4btsos - Copy\mulitoolv4bts\mulitoolv4bts\bin\Debug\CefSharp.WinForms.pdb
+C:\Users\Dan\Documents\multitoolv4btsos - Copy\mulitoolv4bts\mulitoolv4bts\bin\Debug\CefSharp.WinForms.XML
+C:\Users\Dan\Documents\multitoolv4btsos - Copy\mulitoolv4bts\mulitoolv4bts\bin\Debug\slinkosmtv4.exe.config
+C:\Users\Dan\Documents\multitoolv4btsos - Copy\mulitoolv4bts\mulitoolv4bts\bin\Debug\slinkosmtv4.exe.manifest
+C:\Users\Dan\Documents\multitoolv4btsos - Copy\mulitoolv4bts\mulitoolv4bts\bin\Debug\slinkosmtv4.application
+C:\Users\Dan\Documents\multitoolv4btsos - Copy\mulitoolv4bts\mulitoolv4bts\bin\Debug\slinkosmtv4.exe
+C:\Users\Dan\Documents\multitoolv4btsos - Copy\mulitoolv4bts\mulitoolv4bts\bin\Debug\slinkosmtv4.pdb
+C:\Users\Dan\Documents\multitoolv4btsos - Copy\mulitoolv4bts\mulitoolv4bts\bin\Debug\Interop.WMPLib.dll
+C:\Users\Dan\Documents\multitoolv4btsos - Copy\mulitoolv4bts\mulitoolv4bts\bin\Debug\AxInterop.WMPLib.dll
+C:\Users\Dan\Documents\multitoolv4btsos - Copy\mulitoolv4bts\mulitoolv4bts\obj\x86\Debug\Interop.WMPLib.dll
+C:\Users\Dan\Documents\multitoolv4btsos - Copy\mulitoolv4bts\mulitoolv4bts\obj\x86\Debug\AxInterop.WMPLib.dll
+C:\Users\Dan\Documents\multitoolv4btsos - Copy\mulitoolv4bts\mulitoolv4bts\obj\x86\Debug\mulitoolv4bts.csproj.ResolveComReference.cache
+C:\Users\Dan\Documents\multitoolv4btsos - Copy\mulitoolv4bts\mulitoolv4bts\obj\x86\Debug\slinkosmtv4.dataConversion.resources
+C:\Users\Dan\Documents\multitoolv4btsos - Copy\mulitoolv4bts\mulitoolv4bts\obj\x86\Debug\slinkosmtv4.browser.resources
+C:\Users\Dan\Documents\multitoolv4btsos - Copy\mulitoolv4bts\mulitoolv4bts\obj\x86\Debug\slinkosmtv4.calculator.resources
+C:\Users\Dan\Documents\multitoolv4btsos - Copy\mulitoolv4bts\mulitoolv4bts\obj\x86\Debug\slinkosmtv4.cb.resources
+C:\Users\Dan\Documents\multitoolv4btsos - Copy\mulitoolv4bts\mulitoolv4bts\obj\x86\Debug\slinkosmtv4.censorbar.resources
+C:\Users\Dan\Documents\multitoolv4btsos - Copy\mulitoolv4bts\mulitoolv4bts\obj\x86\Debug\slinkosmtv4.clipboardcs.resources
+C:\Users\Dan\Documents\multitoolv4btsos - Copy\mulitoolv4bts\mulitoolv4bts\obj\x86\Debug\slinkosmtv4.menu.resources
+C:\Users\Dan\Documents\multitoolv4btsos - Copy\mulitoolv4bts\mulitoolv4bts\obj\x86\Debug\slinkosmtv4.hexconvert.resources
+C:\Users\Dan\Documents\multitoolv4btsos - Copy\mulitoolv4bts\mulitoolv4bts\obj\x86\Debug\slinkosmtv4.performance.resources
+C:\Users\Dan\Documents\multitoolv4btsos - Copy\mulitoolv4bts\mulitoolv4bts\obj\x86\Debug\slinkosmtv4.Properties.Resources.resources
+C:\Users\Dan\Documents\multitoolv4btsos - Copy\mulitoolv4bts\mulitoolv4bts\obj\x86\Debug\slinkosmtv4.screenshot.resources
+C:\Users\Dan\Documents\multitoolv4btsos - Copy\mulitoolv4bts\mulitoolv4bts\obj\x86\Debug\slinkosmtv4.settings.resources
+C:\Users\Dan\Documents\multitoolv4btsos - Copy\mulitoolv4bts\mulitoolv4bts\obj\x86\Debug\slinkosmtv4.slinkoscredits.resources
+C:\Users\Dan\Documents\multitoolv4btsos - Copy\mulitoolv4bts\mulitoolv4bts\obj\x86\Debug\snake.gameCanvas.resources
+C:\Users\Dan\Documents\multitoolv4btsos - Copy\mulitoolv4bts\mulitoolv4bts\obj\x86\Debug\slinkosmtv4.spammer.resources
+C:\Users\Dan\Documents\multitoolv4btsos - Copy\mulitoolv4bts\mulitoolv4bts\obj\x86\Debug\slinkosmtv4.SplashScreen.resources
+C:\Users\Dan\Documents\multitoolv4btsos - Copy\mulitoolv4bts\mulitoolv4bts\obj\x86\Debug\slinkosmtv4.ssregion.resources
+C:\Users\Dan\Documents\multitoolv4btsos - Copy\mulitoolv4bts\mulitoolv4bts\obj\x86\Debug\slinkosmtv4.stopwatch.resources
+C:\Users\Dan\Documents\multitoolv4btsos - Copy\mulitoolv4bts\mulitoolv4bts\obj\x86\Debug\slinkosmtv4.timer.resources
+C:\Users\Dan\Documents\multitoolv4btsos - Copy\mulitoolv4bts\mulitoolv4bts\obj\x86\Debug\slinkosmtv4.zelda.game.resources
+C:\Users\Dan\Documents\multitoolv4btsos - Copy\mulitoolv4bts\mulitoolv4bts\obj\x86\Debug\slinkosmtv4.zelda.credits.resources
+C:\Users\Dan\Documents\multitoolv4btsos - Copy\mulitoolv4bts\mulitoolv4bts\obj\x86\Debug\slinkosmtv4.zelda.Properties.Resources.resources
+C:\Users\Dan\Documents\multitoolv4btsos - Copy\mulitoolv4bts\mulitoolv4bts\obj\x86\Debug\mulitoolv4bts.csproj.GenerateResource.cache
+C:\Users\Dan\Documents\multitoolv4btsos - Copy\mulitoolv4bts\mulitoolv4bts\obj\x86\Debug\mulitoolv4bts.csproj.CoreCompileInputs.cache
+C:\Users\Dan\Documents\multitoolv4btsos - Copy\mulitoolv4bts\mulitoolv4bts\obj\x86\Debug\slinkosmtv4.exe.manifest
+C:\Users\Dan\Documents\multitoolv4btsos - Copy\mulitoolv4bts\mulitoolv4bts\obj\x86\Debug\slinkosmtv4.application
+C:\Users\Dan\Documents\multitoolv4btsos - Copy\mulitoolv4bts\mulitoolv4bts\obj\x86\Debug\slinkosmtv4.exe
+C:\Users\Dan\Documents\multitoolv4btsos - Copy\mulitoolv4bts\mulitoolv4bts\obj\x86\Debug\slinkosmtv4.pdb
+C:\Users\Dan\Documents\multitoolv4btsos - Copy\mulitoolv4bts\mulitoolv4bts\obj\x86\Debug\mulitoolv4bts.csprojAssemblyReference.cache
+C:\Users\Dan\Documents\multitoolv4btsos - Copy\mulitoolv4bts\mulitoolv4bts\obj\x86\Debug\slinkosmtv4.newcalc.resources
+C:\Users\Dan\Documents\multitoolv4btsos - Copy\mulitoolv4bts\mulitoolv4bts\obj\x86\Debug\slinkosmtv4.postnote.resources
+C:\Users\Dan\Documents\multitoolv4btsos - Copy\mulitoolv4bts\mulitoolv4bts\bin\Debug\NCalc.dll
+C:\Users\Dan\Documents\multitoolv4btsos - Copy\mulitoolv4bts\mulitoolv4bts\obj\x86\Debug\slinkosmtv4.equationCalc.resources
+C:\Users\Dan\Documents\multitoolv4btsos - Copy\mulitoolv4bts\mulitoolv4bts\obj\x86\Debug\mulitoolv4bts.csproj.CopyComplete
+C:\Users\Dan\Documents\multitoolv4btsos - Copy\mulitoolv4bts\mulitoolv4bts\obj\x86\Debug\slinkosmtv4.calcSelector.resources
+C:\Users\Dan\Documents\SlinkOS Development\multitoolv4btsos - Copy\mulitoolv4bts\mulitoolv4bts\bin\Debug\cef.pak
+C:\Users\Dan\Documents\SlinkOS Development\multitoolv4btsos - Copy\mulitoolv4bts\mulitoolv4bts\bin\Debug\cef_100_percent.pak
+C:\Users\Dan\Documents\SlinkOS Development\multitoolv4btsos - Copy\mulitoolv4bts\mulitoolv4bts\bin\Debug\cef_200_percent.pak
+C:\Users\Dan\Documents\SlinkOS Development\multitoolv4btsos - Copy\mulitoolv4bts\mulitoolv4bts\bin\Debug\cef_extensions.pak
+C:\Users\Dan\Documents\SlinkOS Development\multitoolv4btsos - Copy\mulitoolv4bts\mulitoolv4bts\bin\Debug\chrome_elf.dll
+C:\Users\Dan\Documents\SlinkOS Development\multitoolv4btsos - Copy\mulitoolv4bts\mulitoolv4bts\bin\Debug\d3dcompiler_47.dll
+C:\Users\Dan\Documents\SlinkOS Development\multitoolv4btsos - Copy\mulitoolv4bts\mulitoolv4bts\bin\Debug\devtools_resources.pak
+C:\Users\Dan\Documents\SlinkOS Development\multitoolv4btsos - Copy\mulitoolv4bts\mulitoolv4bts\bin\Debug\icudtl.dat
+C:\Users\Dan\Documents\SlinkOS Development\multitoolv4btsos - Copy\mulitoolv4bts\mulitoolv4bts\bin\Debug\libcef.dll
+C:\Users\Dan\Documents\SlinkOS Development\multitoolv4btsos - Copy\mulitoolv4bts\mulitoolv4bts\bin\Debug\libEGL.dll
+C:\Users\Dan\Documents\SlinkOS Development\multitoolv4btsos - Copy\mulitoolv4bts\mulitoolv4bts\bin\Debug\libGLESv2.dll
+C:\Users\Dan\Documents\SlinkOS Development\multitoolv4btsos - Copy\mulitoolv4bts\mulitoolv4bts\bin\Debug\locales\am.pak
+C:\Users\Dan\Documents\SlinkOS Development\multitoolv4btsos - Copy\mulitoolv4bts\mulitoolv4bts\bin\Debug\locales\ar.pak
+C:\Users\Dan\Documents\SlinkOS Development\multitoolv4btsos - Copy\mulitoolv4bts\mulitoolv4bts\bin\Debug\locales\bg.pak
+C:\Users\Dan\Documents\SlinkOS Development\multitoolv4btsos - Copy\mulitoolv4bts\mulitoolv4bts\bin\Debug\locales\bn.pak
+C:\Users\Dan\Documents\SlinkOS Development\multitoolv4btsos - Copy\mulitoolv4bts\mulitoolv4bts\bin\Debug\locales\ca.pak
+C:\Users\Dan\Documents\SlinkOS Development\multitoolv4btsos - Copy\mulitoolv4bts\mulitoolv4bts\bin\Debug\locales\cs.pak
+C:\Users\Dan\Documents\SlinkOS Development\multitoolv4btsos - Copy\mulitoolv4bts\mulitoolv4bts\bin\Debug\locales\da.pak
+C:\Users\Dan\Documents\SlinkOS Development\multitoolv4btsos - Copy\mulitoolv4bts\mulitoolv4bts\bin\Debug\locales\de.pak
+C:\Users\Dan\Documents\SlinkOS Development\multitoolv4btsos - Copy\mulitoolv4bts\mulitoolv4bts\bin\Debug\locales\el.pak
+C:\Users\Dan\Documents\SlinkOS Development\multitoolv4btsos - Copy\mulitoolv4bts\mulitoolv4bts\bin\Debug\locales\en-GB.pak
+C:\Users\Dan\Documents\SlinkOS Development\multitoolv4btsos - Copy\mulitoolv4bts\mulitoolv4bts\bin\Debug\locales\en-US.pak
+C:\Users\Dan\Documents\SlinkOS Development\multitoolv4btsos - Copy\mulitoolv4bts\mulitoolv4bts\bin\Debug\locales\es-419.pak
+C:\Users\Dan\Documents\SlinkOS Development\multitoolv4btsos - Copy\mulitoolv4bts\mulitoolv4bts\bin\Debug\locales\es.pak
+C:\Users\Dan\Documents\SlinkOS Development\multitoolv4btsos - Copy\mulitoolv4bts\mulitoolv4bts\bin\Debug\locales\et.pak
+C:\Users\Dan\Documents\SlinkOS Development\multitoolv4btsos - Copy\mulitoolv4bts\mulitoolv4bts\bin\Debug\locales\fa.pak
+C:\Users\Dan\Documents\SlinkOS Development\multitoolv4btsos - Copy\mulitoolv4bts\mulitoolv4bts\bin\Debug\locales\fi.pak
+C:\Users\Dan\Documents\SlinkOS Development\multitoolv4btsos - Copy\mulitoolv4bts\mulitoolv4bts\bin\Debug\locales\fil.pak
+C:\Users\Dan\Documents\SlinkOS Development\multitoolv4btsos - Copy\mulitoolv4bts\mulitoolv4bts\bin\Debug\locales\fr.pak
+C:\Users\Dan\Documents\SlinkOS Development\multitoolv4btsos - Copy\mulitoolv4bts\mulitoolv4bts\bin\Debug\locales\gu.pak
+C:\Users\Dan\Documents\SlinkOS Development\multitoolv4btsos - Copy\mulitoolv4bts\mulitoolv4bts\bin\Debug\locales\he.pak
+C:\Users\Dan\Documents\SlinkOS Development\multitoolv4btsos - Copy\mulitoolv4bts\mulitoolv4bts\bin\Debug\locales\hi.pak
+C:\Users\Dan\Documents\SlinkOS Development\multitoolv4btsos - Copy\mulitoolv4bts\mulitoolv4bts\bin\Debug\locales\hr.pak
+C:\Users\Dan\Documents\SlinkOS Development\multitoolv4btsos - Copy\mulitoolv4bts\mulitoolv4bts\bin\Debug\locales\hu.pak
+C:\Users\Dan\Documents\SlinkOS Development\multitoolv4btsos - Copy\mulitoolv4bts\mulitoolv4bts\bin\Debug\locales\id.pak
+C:\Users\Dan\Documents\SlinkOS Development\multitoolv4btsos - Copy\mulitoolv4bts\mulitoolv4bts\bin\Debug\locales\it.pak
+C:\Users\Dan\Documents\SlinkOS Development\multitoolv4btsos - Copy\mulitoolv4bts\mulitoolv4bts\bin\Debug\locales\ja.pak
+C:\Users\Dan\Documents\SlinkOS Development\multitoolv4btsos - Copy\mulitoolv4bts\mulitoolv4bts\bin\Debug\locales\kn.pak
+C:\Users\Dan\Documents\SlinkOS Development\multitoolv4btsos - Copy\mulitoolv4bts\mulitoolv4bts\bin\Debug\locales\ko.pak
+C:\Users\Dan\Documents\SlinkOS Development\multitoolv4btsos - Copy\mulitoolv4bts\mulitoolv4bts\bin\Debug\locales\lt.pak
+C:\Users\Dan\Documents\SlinkOS Development\multitoolv4btsos - Copy\mulitoolv4bts\mulitoolv4bts\bin\Debug\locales\lv.pak
+C:\Users\Dan\Documents\SlinkOS Development\multitoolv4btsos - Copy\mulitoolv4bts\mulitoolv4bts\bin\Debug\locales\ml.pak
+C:\Users\Dan\Documents\SlinkOS Development\multitoolv4btsos - Copy\mulitoolv4bts\mulitoolv4bts\bin\Debug\locales\mr.pak
+C:\Users\Dan\Documents\SlinkOS Development\multitoolv4btsos - Copy\mulitoolv4bts\mulitoolv4bts\bin\Debug\locales\ms.pak
+C:\Users\Dan\Documents\SlinkOS Development\multitoolv4btsos - Copy\mulitoolv4bts\mulitoolv4bts\bin\Debug\locales\nb.pak
+C:\Users\Dan\Documents\SlinkOS Development\multitoolv4btsos - Copy\mulitoolv4bts\mulitoolv4bts\bin\Debug\locales\nl.pak
+C:\Users\Dan\Documents\SlinkOS Development\multitoolv4btsos - Copy\mulitoolv4bts\mulitoolv4bts\bin\Debug\locales\pl.pak
+C:\Users\Dan\Documents\SlinkOS Development\multitoolv4btsos - Copy\mulitoolv4bts\mulitoolv4bts\bin\Debug\locales\pt-BR.pak
+C:\Users\Dan\Documents\SlinkOS Development\multitoolv4btsos - Copy\mulitoolv4bts\mulitoolv4bts\bin\Debug\locales\pt-PT.pak
+C:\Users\Dan\Documents\SlinkOS Development\multitoolv4btsos - Copy\mulitoolv4bts\mulitoolv4bts\bin\Debug\locales\ro.pak
+C:\Users\Dan\Documents\SlinkOS Development\multitoolv4btsos - Copy\mulitoolv4bts\mulitoolv4bts\bin\Debug\locales\ru.pak
+C:\Users\Dan\Documents\SlinkOS Development\multitoolv4btsos - Copy\mulitoolv4bts\mulitoolv4bts\bin\Debug\locales\sk.pak
+C:\Users\Dan\Documents\SlinkOS Development\multitoolv4btsos - Copy\mulitoolv4bts\mulitoolv4bts\bin\Debug\locales\sl.pak
+C:\Users\Dan\Documents\SlinkOS Development\multitoolv4btsos - Copy\mulitoolv4bts\mulitoolv4bts\bin\Debug\locales\sr.pak
+C:\Users\Dan\Documents\SlinkOS Development\multitoolv4btsos - Copy\mulitoolv4bts\mulitoolv4bts\bin\Debug\locales\sv.pak
+C:\Users\Dan\Documents\SlinkOS Development\multitoolv4btsos - Copy\mulitoolv4bts\mulitoolv4bts\bin\Debug\locales\sw.pak
+C:\Users\Dan\Documents\SlinkOS Development\multitoolv4btsos - Copy\mulitoolv4bts\mulitoolv4bts\bin\Debug\locales\ta.pak
+C:\Users\Dan\Documents\SlinkOS Development\multitoolv4btsos - Copy\mulitoolv4bts\mulitoolv4bts\bin\Debug\locales\te.pak
+C:\Users\Dan\Documents\SlinkOS Development\multitoolv4btsos - Copy\mulitoolv4bts\mulitoolv4bts\bin\Debug\locales\th.pak
+C:\Users\Dan\Documents\SlinkOS Development\multitoolv4btsos - Copy\mulitoolv4bts\mulitoolv4bts\bin\Debug\locales\tr.pak
+C:\Users\Dan\Documents\SlinkOS Development\multitoolv4btsos - Copy\mulitoolv4bts\mulitoolv4bts\bin\Debug\locales\uk.pak
+C:\Users\Dan\Documents\SlinkOS Development\multitoolv4btsos - Copy\mulitoolv4bts\mulitoolv4bts\bin\Debug\locales\vi.pak
+C:\Users\Dan\Documents\SlinkOS Development\multitoolv4btsos - Copy\mulitoolv4bts\mulitoolv4bts\bin\Debug\locales\zh-CN.pak
+C:\Users\Dan\Documents\SlinkOS Development\multitoolv4btsos - Copy\mulitoolv4bts\mulitoolv4bts\bin\Debug\locales\zh-TW.pak
+C:\Users\Dan\Documents\SlinkOS Development\multitoolv4btsos - Copy\mulitoolv4bts\mulitoolv4bts\bin\Debug\natives_blob.bin
+C:\Users\Dan\Documents\SlinkOS Development\multitoolv4btsos - Copy\mulitoolv4bts\mulitoolv4bts\bin\Debug\README.txt
+C:\Users\Dan\Documents\SlinkOS Development\multitoolv4btsos - Copy\mulitoolv4bts\mulitoolv4bts\bin\Debug\snapshot_blob.bin
+C:\Users\Dan\Documents\SlinkOS Development\multitoolv4btsos - Copy\mulitoolv4bts\mulitoolv4bts\bin\Debug\swiftshader\libEGL.dll
+C:\Users\Dan\Documents\SlinkOS Development\multitoolv4btsos - Copy\mulitoolv4bts\mulitoolv4bts\bin\Debug\swiftshader\libGLESv2.dll
+C:\Users\Dan\Documents\SlinkOS Development\multitoolv4btsos - Copy\mulitoolv4bts\mulitoolv4bts\bin\Debug\v8_context_snapshot.bin
+C:\Users\Dan\Documents\SlinkOS Development\multitoolv4btsos - Copy\mulitoolv4bts\mulitoolv4bts\bin\Debug\CefSharp.BrowserSubprocess.Core.dll
+C:\Users\Dan\Documents\SlinkOS Development\multitoolv4btsos - Copy\mulitoolv4bts\mulitoolv4bts\bin\Debug\CefSharp.BrowserSubprocess.Core.pdb
+C:\Users\Dan\Documents\SlinkOS Development\multitoolv4btsos - Copy\mulitoolv4bts\mulitoolv4bts\bin\Debug\CefSharp.BrowserSubprocess.exe
+C:\Users\Dan\Documents\SlinkOS Development\multitoolv4btsos - Copy\mulitoolv4bts\mulitoolv4bts\bin\Debug\CefSharp.BrowserSubprocess.pdb
+C:\Users\Dan\Documents\SlinkOS Development\multitoolv4btsos - Copy\mulitoolv4bts\mulitoolv4bts\bin\Debug\CefSharp.Core.dll
+C:\Users\Dan\Documents\SlinkOS Development\multitoolv4btsos - Copy\mulitoolv4bts\mulitoolv4bts\bin\Debug\CefSharp.Core.pdb
+C:\Users\Dan\Documents\SlinkOS Development\multitoolv4btsos - Copy\mulitoolv4bts\mulitoolv4bts\bin\Debug\CefSharp.Core.xml
+C:\Users\Dan\Documents\SlinkOS Development\multitoolv4btsos - Copy\mulitoolv4bts\mulitoolv4bts\bin\Debug\CefSharp.dll
+C:\Users\Dan\Documents\SlinkOS Development\multitoolv4btsos - Copy\mulitoolv4bts\mulitoolv4bts\bin\Debug\CefSharp.pdb
+C:\Users\Dan\Documents\SlinkOS Development\multitoolv4btsos - Copy\mulitoolv4bts\mulitoolv4bts\bin\Debug\CefSharp.XML
+C:\Users\Dan\Documents\SlinkOS Development\multitoolv4btsos - Copy\mulitoolv4bts\mulitoolv4bts\bin\Debug\CefSharp.WinForms.dll
+C:\Users\Dan\Documents\SlinkOS Development\multitoolv4btsos - Copy\mulitoolv4bts\mulitoolv4bts\bin\Debug\CefSharp.WinForms.pdb
+C:\Users\Dan\Documents\SlinkOS Development\multitoolv4btsos - Copy\mulitoolv4bts\mulitoolv4bts\bin\Debug\CefSharp.WinForms.XML
+C:\Users\Dan\Documents\SlinkOS Development\multitoolv4btsos - Copy\mulitoolv4bts\mulitoolv4bts\bin\Debug\slinkosmtv4.exe.config
+C:\Users\Dan\Documents\SlinkOS Development\multitoolv4btsos - Copy\mulitoolv4bts\mulitoolv4bts\bin\Debug\slinkosmtv4.exe.manifest
+C:\Users\Dan\Documents\SlinkOS Development\multitoolv4btsos - Copy\mulitoolv4bts\mulitoolv4bts\bin\Debug\slinkosmtv4.application
+C:\Users\Dan\Documents\SlinkOS Development\multitoolv4btsos - Copy\mulitoolv4bts\mulitoolv4bts\bin\Debug\slinkosmtv4.exe
+C:\Users\Dan\Documents\SlinkOS Development\multitoolv4btsos - Copy\mulitoolv4bts\mulitoolv4bts\bin\Debug\slinkosmtv4.pdb
+C:\Users\Dan\Documents\SlinkOS Development\multitoolv4btsos - Copy\mulitoolv4bts\mulitoolv4bts\bin\Debug\NCalc.dll
+C:\Users\Dan\Documents\SlinkOS Development\multitoolv4btsos - Copy\mulitoolv4bts\mulitoolv4bts\bin\Debug\Interop.WMPLib.dll
+C:\Users\Dan\Documents\SlinkOS Development\multitoolv4btsos - Copy\mulitoolv4bts\mulitoolv4bts\bin\Debug\AxInterop.WMPLib.dll
+C:\Users\Dan\Documents\SlinkOS Development\multitoolv4btsos - Copy\mulitoolv4bts\mulitoolv4bts\obj\x86\Debug\Interop.WMPLib.dll
+C:\Users\Dan\Documents\SlinkOS Development\multitoolv4btsos - Copy\mulitoolv4bts\mulitoolv4bts\obj\x86\Debug\AxInterop.WMPLib.dll
+C:\Users\Dan\Documents\SlinkOS Development\multitoolv4btsos - Copy\mulitoolv4bts\mulitoolv4bts\obj\x86\Debug\mulitoolv4bts.csproj.ResolveComReference.cache
+C:\Users\Dan\Documents\SlinkOS Development\multitoolv4btsos - Copy\mulitoolv4bts\mulitoolv4bts\obj\x86\Debug\slinkosmtv4.dataConversion.resources
+C:\Users\Dan\Documents\SlinkOS Development\multitoolv4btsos - Copy\mulitoolv4bts\mulitoolv4bts\obj\x86\Debug\slinkosmtv4.browser.resources
+C:\Users\Dan\Documents\SlinkOS Development\multitoolv4btsos - Copy\mulitoolv4bts\mulitoolv4bts\obj\x86\Debug\slinkosmtv4.calculator.resources
+C:\Users\Dan\Documents\SlinkOS Development\multitoolv4btsos - Copy\mulitoolv4bts\mulitoolv4bts\obj\x86\Debug\slinkosmtv4.cb.resources
+C:\Users\Dan\Documents\SlinkOS Development\multitoolv4btsos - Copy\mulitoolv4bts\mulitoolv4bts\obj\x86\Debug\slinkosmtv4.censorbar.resources
+C:\Users\Dan\Documents\SlinkOS Development\multitoolv4btsos - Copy\mulitoolv4bts\mulitoolv4bts\obj\x86\Debug\slinkosmtv4.clipboardcs.resources
+C:\Users\Dan\Documents\SlinkOS Development\multitoolv4btsos - Copy\mulitoolv4bts\mulitoolv4bts\obj\x86\Debug\slinkosmtv4.equationCalc.resources
+C:\Users\Dan\Documents\SlinkOS Development\multitoolv4btsos - Copy\mulitoolv4bts\mulitoolv4bts\obj\x86\Debug\slinkosmtv4.menu.resources
+C:\Users\Dan\Documents\SlinkOS Development\multitoolv4btsos - Copy\mulitoolv4bts\mulitoolv4bts\obj\x86\Debug\slinkosmtv4.calcSelector.resources
+C:\Users\Dan\Documents\SlinkOS Development\multitoolv4btsos - Copy\mulitoolv4bts\mulitoolv4bts\obj\x86\Debug\slinkosmtv4.hexconvert.resources
+C:\Users\Dan\Documents\SlinkOS Development\multitoolv4btsos - Copy\mulitoolv4bts\mulitoolv4bts\obj\x86\Debug\slinkosmtv4.newcalc.resources
+C:\Users\Dan\Documents\SlinkOS Development\multitoolv4btsos - Copy\mulitoolv4bts\mulitoolv4bts\obj\x86\Debug\slinkosmtv4.performance.resources
+C:\Users\Dan\Documents\SlinkOS Development\multitoolv4btsos - Copy\mulitoolv4bts\mulitoolv4bts\obj\x86\Debug\slinkosmtv4.postnote.resources
+C:\Users\Dan\Documents\SlinkOS Development\multitoolv4btsos - Copy\mulitoolv4bts\mulitoolv4bts\obj\x86\Debug\slinkosmtv4.Properties.Resources.resources
+C:\Users\Dan\Documents\SlinkOS Development\multitoolv4btsos - Copy\mulitoolv4bts\mulitoolv4bts\obj\x86\Debug\slinkosmtv4.screenshot.resources
+C:\Users\Dan\Documents\SlinkOS Development\multitoolv4btsos - Copy\mulitoolv4bts\mulitoolv4bts\obj\x86\Debug\slinkosmtv4.settings.resources
+C:\Users\Dan\Documents\SlinkOS Development\multitoolv4btsos - Copy\mulitoolv4bts\mulitoolv4bts\obj\x86\Debug\slinkosmtv4.slinkoscredits.resources
+C:\Users\Dan\Documents\SlinkOS Development\multitoolv4btsos - Copy\mulitoolv4bts\mulitoolv4bts\obj\x86\Debug\snake.gameCanvas.resources
+C:\Users\Dan\Documents\SlinkOS Development\multitoolv4btsos - Copy\mulitoolv4bts\mulitoolv4bts\obj\x86\Debug\slinkosmtv4.spammer.resources
+C:\Users\Dan\Documents\SlinkOS Development\multitoolv4btsos - Copy\mulitoolv4bts\mulitoolv4bts\obj\x86\Debug\slinkosmtv4.SplashScreen.resources
+C:\Users\Dan\Documents\SlinkOS Development\multitoolv4btsos - Copy\mulitoolv4bts\mulitoolv4bts\obj\x86\Debug\slinkosmtv4.ssregion.resources
+C:\Users\Dan\Documents\SlinkOS Development\multitoolv4btsos - Copy\mulitoolv4bts\mulitoolv4bts\obj\x86\Debug\slinkosmtv4.stopwatch.resources
+C:\Users\Dan\Documents\SlinkOS Development\multitoolv4btsos - Copy\mulitoolv4bts\mulitoolv4bts\obj\x86\Debug\slinkosmtv4.timer.resources
+C:\Users\Dan\Documents\SlinkOS Development\multitoolv4btsos - Copy\mulitoolv4bts\mulitoolv4bts\obj\x86\Debug\slinkosmtv4.zelda.game.resources
+C:\Users\Dan\Documents\SlinkOS Development\multitoolv4btsos - Copy\mulitoolv4bts\mulitoolv4bts\obj\x86\Debug\slinkosmtv4.zelda.credits.resources
+C:\Users\Dan\Documents\SlinkOS Development\multitoolv4btsos - Copy\mulitoolv4bts\mulitoolv4bts\obj\x86\Debug\slinkosmtv4.zelda.Properties.Resources.resources
+C:\Users\Dan\Documents\SlinkOS Development\multitoolv4btsos - Copy\mulitoolv4bts\mulitoolv4bts\obj\x86\Debug\mulitoolv4bts.csproj.GenerateResource.cache
+C:\Users\Dan\Documents\SlinkOS Development\multitoolv4btsos - Copy\mulitoolv4bts\mulitoolv4bts\obj\x86\Debug\mulitoolv4bts.csproj.CoreCompileInputs.cache
+C:\Users\Dan\Documents\SlinkOS Development\multitoolv4btsos - Copy\mulitoolv4bts\mulitoolv4bts\obj\x86\Debug\slinkosmtv4.exe.manifest
+C:\Users\Dan\Documents\SlinkOS Development\multitoolv4btsos - Copy\mulitoolv4bts\mulitoolv4bts\obj\x86\Debug\slinkosmtv4.application
+C:\Users\Dan\Documents\SlinkOS Development\multitoolv4btsos - Copy\mulitoolv4bts\mulitoolv4bts\obj\x86\Debug\mulitoolv4bts.csproj.CopyComplete
+C:\Users\Dan\Documents\SlinkOS Development\multitoolv4btsos - Copy\mulitoolv4bts\mulitoolv4bts\obj\x86\Debug\slinkosmtv4.exe
+C:\Users\Dan\Documents\SlinkOS Development\multitoolv4btsos - Copy\mulitoolv4bts\mulitoolv4bts\obj\x86\Debug\slinkosmtv4.pdb
+C:\Users\Dan\Documents\SlinkOS Development\multitoolv4btsos - Copy\mulitoolv4bts\mulitoolv4bts\obj\x86\Debug\mulitoolv4bts.csprojAssemblyReference.cache
+D:\Official Portfolio\SlinkOS Development\multitoolv4btsos - Copy\mulitoolv4bts\mulitoolv4bts\bin\Debug\cef.pak
+D:\Official Portfolio\SlinkOS Development\multitoolv4btsos - Copy\mulitoolv4bts\mulitoolv4bts\bin\Debug\cef_100_percent.pak
+D:\Official Portfolio\SlinkOS Development\multitoolv4btsos - Copy\mulitoolv4bts\mulitoolv4bts\bin\Debug\cef_200_percent.pak
+D:\Official Portfolio\SlinkOS Development\multitoolv4btsos - Copy\mulitoolv4bts\mulitoolv4bts\bin\Debug\cef_extensions.pak
+D:\Official Portfolio\SlinkOS Development\multitoolv4btsos - Copy\mulitoolv4bts\mulitoolv4bts\bin\Debug\chrome_elf.dll
+D:\Official Portfolio\SlinkOS Development\multitoolv4btsos - Copy\mulitoolv4bts\mulitoolv4bts\bin\Debug\d3dcompiler_47.dll
+D:\Official Portfolio\SlinkOS Development\multitoolv4btsos - Copy\mulitoolv4bts\mulitoolv4bts\bin\Debug\devtools_resources.pak
+D:\Official Portfolio\SlinkOS Development\multitoolv4btsos - Copy\mulitoolv4bts\mulitoolv4bts\bin\Debug\icudtl.dat
+D:\Official Portfolio\SlinkOS Development\multitoolv4btsos - Copy\mulitoolv4bts\mulitoolv4bts\bin\Debug\libcef.dll
+D:\Official Portfolio\SlinkOS Development\multitoolv4btsos - Copy\mulitoolv4bts\mulitoolv4bts\bin\Debug\libEGL.dll
+D:\Official Portfolio\SlinkOS Development\multitoolv4btsos - Copy\mulitoolv4bts\mulitoolv4bts\bin\Debug\libGLESv2.dll
+D:\Official Portfolio\SlinkOS Development\multitoolv4btsos - Copy\mulitoolv4bts\mulitoolv4bts\bin\Debug\locales\am.pak
+D:\Official Portfolio\SlinkOS Development\multitoolv4btsos - Copy\mulitoolv4bts\mulitoolv4bts\bin\Debug\locales\ar.pak
+D:\Official Portfolio\SlinkOS Development\multitoolv4btsos - Copy\mulitoolv4bts\mulitoolv4bts\bin\Debug\locales\bg.pak
+D:\Official Portfolio\SlinkOS Development\multitoolv4btsos - Copy\mulitoolv4bts\mulitoolv4bts\bin\Debug\locales\bn.pak
+D:\Official Portfolio\SlinkOS Development\multitoolv4btsos - Copy\mulitoolv4bts\mulitoolv4bts\bin\Debug\locales\ca.pak
+D:\Official Portfolio\SlinkOS Development\multitoolv4btsos - Copy\mulitoolv4bts\mulitoolv4bts\bin\Debug\locales\cs.pak
+D:\Official Portfolio\SlinkOS Development\multitoolv4btsos - Copy\mulitoolv4bts\mulitoolv4bts\bin\Debug\locales\da.pak
+D:\Official Portfolio\SlinkOS Development\multitoolv4btsos - Copy\mulitoolv4bts\mulitoolv4bts\bin\Debug\locales\de.pak
+D:\Official Portfolio\SlinkOS Development\multitoolv4btsos - Copy\mulitoolv4bts\mulitoolv4bts\bin\Debug\locales\el.pak
+D:\Official Portfolio\SlinkOS Development\multitoolv4btsos - Copy\mulitoolv4bts\mulitoolv4bts\bin\Debug\locales\en-GB.pak
+D:\Official Portfolio\SlinkOS Development\multitoolv4btsos - Copy\mulitoolv4bts\mulitoolv4bts\bin\Debug\locales\en-US.pak
+D:\Official Portfolio\SlinkOS Development\multitoolv4btsos - Copy\mulitoolv4bts\mulitoolv4bts\bin\Debug\locales\es-419.pak
+D:\Official Portfolio\SlinkOS Development\multitoolv4btsos - Copy\mulitoolv4bts\mulitoolv4bts\bin\Debug\locales\es.pak
+D:\Official Portfolio\SlinkOS Development\multitoolv4btsos - Copy\mulitoolv4bts\mulitoolv4bts\bin\Debug\locales\et.pak
+D:\Official Portfolio\SlinkOS Development\multitoolv4btsos - Copy\mulitoolv4bts\mulitoolv4bts\bin\Debug\locales\fa.pak
+D:\Official Portfolio\SlinkOS Development\multitoolv4btsos - Copy\mulitoolv4bts\mulitoolv4bts\bin\Debug\locales\fi.pak
+D:\Official Portfolio\SlinkOS Development\multitoolv4btsos - Copy\mulitoolv4bts\mulitoolv4bts\bin\Debug\locales\fil.pak
+D:\Official Portfolio\SlinkOS Development\multitoolv4btsos - Copy\mulitoolv4bts\mulitoolv4bts\bin\Debug\locales\fr.pak
+D:\Official Portfolio\SlinkOS Development\multitoolv4btsos - Copy\mulitoolv4bts\mulitoolv4bts\bin\Debug\locales\gu.pak
+D:\Official Portfolio\SlinkOS Development\multitoolv4btsos - Copy\mulitoolv4bts\mulitoolv4bts\bin\Debug\locales\he.pak
+D:\Official Portfolio\SlinkOS Development\multitoolv4btsos - Copy\mulitoolv4bts\mulitoolv4bts\bin\Debug\locales\hi.pak
+D:\Official Portfolio\SlinkOS Development\multitoolv4btsos - Copy\mulitoolv4bts\mulitoolv4bts\bin\Debug\locales\hr.pak
+D:\Official Portfolio\SlinkOS Development\multitoolv4btsos - Copy\mulitoolv4bts\mulitoolv4bts\bin\Debug\locales\hu.pak
+D:\Official Portfolio\SlinkOS Development\multitoolv4btsos - Copy\mulitoolv4bts\mulitoolv4bts\bin\Debug\locales\id.pak
+D:\Official Portfolio\SlinkOS Development\multitoolv4btsos - Copy\mulitoolv4bts\mulitoolv4bts\bin\Debug\locales\it.pak
+D:\Official Portfolio\SlinkOS Development\multitoolv4btsos - Copy\mulitoolv4bts\mulitoolv4bts\bin\Debug\locales\ja.pak
+D:\Official Portfolio\SlinkOS Development\multitoolv4btsos - Copy\mulitoolv4bts\mulitoolv4bts\bin\Debug\locales\kn.pak
+D:\Official Portfolio\SlinkOS Development\multitoolv4btsos - Copy\mulitoolv4bts\mulitoolv4bts\bin\Debug\locales\ko.pak
+D:\Official Portfolio\SlinkOS Development\multitoolv4btsos - Copy\mulitoolv4bts\mulitoolv4bts\bin\Debug\locales\lt.pak
+D:\Official Portfolio\SlinkOS Development\multitoolv4btsos - Copy\mulitoolv4bts\mulitoolv4bts\bin\Debug\locales\lv.pak
+D:\Official Portfolio\SlinkOS Development\multitoolv4btsos - Copy\mulitoolv4bts\mulitoolv4bts\bin\Debug\locales\ml.pak
+D:\Official Portfolio\SlinkOS Development\multitoolv4btsos - Copy\mulitoolv4bts\mulitoolv4bts\bin\Debug\locales\mr.pak
+D:\Official Portfolio\SlinkOS Development\multitoolv4btsos - Copy\mulitoolv4bts\mulitoolv4bts\bin\Debug\locales\ms.pak
+D:\Official Portfolio\SlinkOS Development\multitoolv4btsos - Copy\mulitoolv4bts\mulitoolv4bts\bin\Debug\locales\nb.pak
+D:\Official Portfolio\SlinkOS Development\multitoolv4btsos - Copy\mulitoolv4bts\mulitoolv4bts\bin\Debug\locales\nl.pak
+D:\Official Portfolio\SlinkOS Development\multitoolv4btsos - Copy\mulitoolv4bts\mulitoolv4bts\bin\Debug\locales\pl.pak
+D:\Official Portfolio\SlinkOS Development\multitoolv4btsos - Copy\mulitoolv4bts\mulitoolv4bts\bin\Debug\locales\pt-BR.pak
+D:\Official Portfolio\SlinkOS Development\multitoolv4btsos - Copy\mulitoolv4bts\mulitoolv4bts\bin\Debug\locales\pt-PT.pak
+D:\Official Portfolio\SlinkOS Development\multitoolv4btsos - Copy\mulitoolv4bts\mulitoolv4bts\bin\Debug\locales\ro.pak
+D:\Official Portfolio\SlinkOS Development\multitoolv4btsos - Copy\mulitoolv4bts\mulitoolv4bts\bin\Debug\locales\ru.pak
+D:\Official Portfolio\SlinkOS Development\multitoolv4btsos - Copy\mulitoolv4bts\mulitoolv4bts\bin\Debug\locales\sk.pak
+D:\Official Portfolio\SlinkOS Development\multitoolv4btsos - Copy\mulitoolv4bts\mulitoolv4bts\bin\Debug\locales\sl.pak
+D:\Official Portfolio\SlinkOS Development\multitoolv4btsos - Copy\mulitoolv4bts\mulitoolv4bts\bin\Debug\locales\sr.pak
+D:\Official Portfolio\SlinkOS Development\multitoolv4btsos - Copy\mulitoolv4bts\mulitoolv4bts\bin\Debug\locales\sv.pak
+D:\Official Portfolio\SlinkOS Development\multitoolv4btsos - Copy\mulitoolv4bts\mulitoolv4bts\bin\Debug\locales\sw.pak
+D:\Official Portfolio\SlinkOS Development\multitoolv4btsos - Copy\mulitoolv4bts\mulitoolv4bts\bin\Debug\locales\ta.pak
+D:\Official Portfolio\SlinkOS Development\multitoolv4btsos - Copy\mulitoolv4bts\mulitoolv4bts\bin\Debug\locales\te.pak
+D:\Official Portfolio\SlinkOS Development\multitoolv4btsos - Copy\mulitoolv4bts\mulitoolv4bts\bin\Debug\locales\th.pak
+D:\Official Portfolio\SlinkOS Development\multitoolv4btsos - Copy\mulitoolv4bts\mulitoolv4bts\bin\Debug\locales\tr.pak
+D:\Official Portfolio\SlinkOS Development\multitoolv4btsos - Copy\mulitoolv4bts\mulitoolv4bts\bin\Debug\locales\uk.pak
+D:\Official Portfolio\SlinkOS Development\multitoolv4btsos - Copy\mulitoolv4bts\mulitoolv4bts\bin\Debug\locales\vi.pak
+D:\Official Portfolio\SlinkOS Development\multitoolv4btsos - Copy\mulitoolv4bts\mulitoolv4bts\bin\Debug\locales\zh-CN.pak
+D:\Official Portfolio\SlinkOS Development\multitoolv4btsos - Copy\mulitoolv4bts\mulitoolv4bts\bin\Debug\locales\zh-TW.pak
+D:\Official Portfolio\SlinkOS Development\multitoolv4btsos - Copy\mulitoolv4bts\mulitoolv4bts\bin\Debug\README.txt
+D:\Official Portfolio\SlinkOS Development\multitoolv4btsos - Copy\mulitoolv4bts\mulitoolv4bts\bin\Debug\snapshot_blob.bin
+D:\Official Portfolio\SlinkOS Development\multitoolv4btsos - Copy\mulitoolv4bts\mulitoolv4bts\bin\Debug\swiftshader\libEGL.dll
+D:\Official Portfolio\SlinkOS Development\multitoolv4btsos - Copy\mulitoolv4bts\mulitoolv4bts\bin\Debug\swiftshader\libGLESv2.dll
+D:\Official Portfolio\SlinkOS Development\multitoolv4btsos - Copy\mulitoolv4bts\mulitoolv4bts\bin\Debug\v8_context_snapshot.bin
+D:\Official Portfolio\SlinkOS Development\multitoolv4btsos - Copy\mulitoolv4bts\mulitoolv4bts\bin\Debug\CefSharp.BrowserSubprocess.Core.dll
+D:\Official Portfolio\SlinkOS Development\multitoolv4btsos - Copy\mulitoolv4bts\mulitoolv4bts\bin\Debug\CefSharp.BrowserSubprocess.Core.pdb
+D:\Official Portfolio\SlinkOS Development\multitoolv4btsos - Copy\mulitoolv4bts\mulitoolv4bts\bin\Debug\CefSharp.BrowserSubprocess.exe
+D:\Official Portfolio\SlinkOS Development\multitoolv4btsos - Copy\mulitoolv4bts\mulitoolv4bts\bin\Debug\CefSharp.BrowserSubprocess.pdb
+D:\Official Portfolio\SlinkOS Development\multitoolv4btsos - Copy\mulitoolv4bts\mulitoolv4bts\bin\Debug\CefSharp.Core.dll
+D:\Official Portfolio\SlinkOS Development\multitoolv4btsos - Copy\mulitoolv4bts\mulitoolv4bts\bin\Debug\CefSharp.Core.pdb
+D:\Official Portfolio\SlinkOS Development\multitoolv4btsos - Copy\mulitoolv4bts\mulitoolv4bts\bin\Debug\CefSharp.Core.xml
+D:\Official Portfolio\SlinkOS Development\multitoolv4btsos - Copy\mulitoolv4bts\mulitoolv4bts\bin\Debug\CefSharp.dll
+D:\Official Portfolio\SlinkOS Development\multitoolv4btsos - Copy\mulitoolv4bts\mulitoolv4bts\bin\Debug\CefSharp.pdb
+D:\Official Portfolio\SlinkOS Development\multitoolv4btsos - Copy\mulitoolv4bts\mulitoolv4bts\bin\Debug\CefSharp.XML
+D:\Official Portfolio\SlinkOS Development\multitoolv4btsos - Copy\mulitoolv4bts\mulitoolv4bts\bin\Debug\CefSharp.WinForms.dll
+D:\Official Portfolio\SlinkOS Development\multitoolv4btsos - Copy\mulitoolv4bts\mulitoolv4bts\bin\Debug\CefSharp.WinForms.pdb
+D:\Official Portfolio\SlinkOS Development\multitoolv4btsos - Copy\mulitoolv4bts\mulitoolv4bts\bin\Debug\CefSharp.WinForms.XML
+D:\Official Portfolio\SlinkOS Development\multitoolv4btsos - Copy\mulitoolv4bts\mulitoolv4bts\bin\Debug\slinkosmtv4.exe.config
+D:\Official Portfolio\SlinkOS Development\multitoolv4btsos - Copy\mulitoolv4bts\mulitoolv4bts\bin\Debug\slinkosmtv4.exe.manifest
+D:\Official Portfolio\SlinkOS Development\multitoolv4btsos - Copy\mulitoolv4bts\mulitoolv4bts\bin\Debug\slinkosmtv4.application
+D:\Official Portfolio\SlinkOS Development\multitoolv4btsos - Copy\mulitoolv4bts\mulitoolv4bts\bin\Debug\slinkosmtv4.exe
+D:\Official Portfolio\SlinkOS Development\multitoolv4btsos - Copy\mulitoolv4bts\mulitoolv4bts\bin\Debug\slinkosmtv4.pdb
+D:\Official Portfolio\SlinkOS Development\multitoolv4btsos - Copy\mulitoolv4bts\mulitoolv4bts\bin\Debug\NCalc.dll
+D:\Official Portfolio\SlinkOS Development\multitoolv4btsos - Copy\mulitoolv4bts\mulitoolv4bts\bin\Debug\Interop.WMPLib.dll
+D:\Official Portfolio\SlinkOS Development\multitoolv4btsos - Copy\mulitoolv4bts\mulitoolv4bts\bin\Debug\AxInterop.WMPLib.dll
+D:\Official Portfolio\SlinkOS Development\multitoolv4btsos - Copy\mulitoolv4bts\mulitoolv4bts\obj\x86\Debug\mulitoolv4bts.csprojAssemblyReference.cache
+D:\Official Portfolio\SlinkOS Development\multitoolv4btsos - Copy\mulitoolv4bts\mulitoolv4bts\obj\x86\Debug\Interop.WMPLib.dll
+D:\Official Portfolio\SlinkOS Development\multitoolv4btsos - Copy\mulitoolv4bts\mulitoolv4bts\obj\x86\Debug\AxInterop.WMPLib.dll
+D:\Official Portfolio\SlinkOS Development\multitoolv4btsos - Copy\mulitoolv4bts\mulitoolv4bts\obj\x86\Debug\mulitoolv4bts.csproj.ResolveComReference.cache
+D:\Official Portfolio\SlinkOS Development\multitoolv4btsos - Copy\mulitoolv4bts\mulitoolv4bts\obj\x86\Debug\slinkosmtv4.dataConversion.resources
+D:\Official Portfolio\SlinkOS Development\multitoolv4btsos - Copy\mulitoolv4bts\mulitoolv4bts\obj\x86\Debug\slinkosmtv4.browser.resources
+D:\Official Portfolio\SlinkOS Development\multitoolv4btsos - Copy\mulitoolv4bts\mulitoolv4bts\obj\x86\Debug\slinkosmtv4.calculator.resources
+D:\Official Portfolio\SlinkOS Development\multitoolv4btsos - Copy\mulitoolv4bts\mulitoolv4bts\obj\x86\Debug\slinkosmtv4.cb.resources
+D:\Official Portfolio\SlinkOS Development\multitoolv4btsos - Copy\mulitoolv4bts\mulitoolv4bts\obj\x86\Debug\slinkosmtv4.censorbar.resources
+D:\Official Portfolio\SlinkOS Development\multitoolv4btsos - Copy\mulitoolv4bts\mulitoolv4bts\obj\x86\Debug\slinkosmtv4.clipboardcs.resources
+D:\Official Portfolio\SlinkOS Development\multitoolv4btsos - Copy\mulitoolv4bts\mulitoolv4bts\obj\x86\Debug\slinkosmtv4.equationCalc.resources
+D:\Official Portfolio\SlinkOS Development\multitoolv4btsos - Copy\mulitoolv4bts\mulitoolv4bts\obj\x86\Debug\slinkosmtv4.menu.resources
+D:\Official Portfolio\SlinkOS Development\multitoolv4btsos - Copy\mulitoolv4bts\mulitoolv4bts\obj\x86\Debug\slinkosmtv4.calcSelector.resources
+D:\Official Portfolio\SlinkOS Development\multitoolv4btsos - Copy\mulitoolv4bts\mulitoolv4bts\obj\x86\Debug\slinkosmtv4.hexconvert.resources
+D:\Official Portfolio\SlinkOS Development\multitoolv4btsos - Copy\mulitoolv4bts\mulitoolv4bts\obj\x86\Debug\slinkosmtv4.newcalc.resources
+D:\Official Portfolio\SlinkOS Development\multitoolv4btsos - Copy\mulitoolv4bts\mulitoolv4bts\obj\x86\Debug\slinkosmtv4.performance.resources
+D:\Official Portfolio\SlinkOS Development\multitoolv4btsos - Copy\mulitoolv4bts\mulitoolv4bts\obj\x86\Debug\slinkosmtv4.postnote.resources
+D:\Official Portfolio\SlinkOS Development\multitoolv4btsos - Copy\mulitoolv4bts\mulitoolv4bts\obj\x86\Debug\slinkosmtv4.Properties.Resources.resources
+D:\Official Portfolio\SlinkOS Development\multitoolv4btsos - Copy\mulitoolv4bts\mulitoolv4bts\obj\x86\Debug\slinkosmtv4.screenshot.resources
+D:\Official Portfolio\SlinkOS Development\multitoolv4btsos - Copy\mulitoolv4bts\mulitoolv4bts\obj\x86\Debug\slinkosmtv4.settings.resources
+D:\Official Portfolio\SlinkOS Development\multitoolv4btsos - Copy\mulitoolv4bts\mulitoolv4bts\obj\x86\Debug\slinkosmtv4.slinkoscredits.resources
+D:\Official Portfolio\SlinkOS Development\multitoolv4btsos - Copy\mulitoolv4bts\mulitoolv4bts\obj\x86\Debug\snake.gameCanvas.resources
+D:\Official Portfolio\SlinkOS Development\multitoolv4btsos - Copy\mulitoolv4bts\mulitoolv4bts\obj\x86\Debug\slinkosmtv4.spammer.resources
+D:\Official Portfolio\SlinkOS Development\multitoolv4btsos - Copy\mulitoolv4bts\mulitoolv4bts\obj\x86\Debug\slinkosmtv4.SplashScreen.resources
+D:\Official Portfolio\SlinkOS Development\multitoolv4btsos - Copy\mulitoolv4bts\mulitoolv4bts\obj\x86\Debug\slinkosmtv4.ssregion.resources
+D:\Official Portfolio\SlinkOS Development\multitoolv4btsos - Copy\mulitoolv4bts\mulitoolv4bts\obj\x86\Debug\slinkosmtv4.stopwatch.resources
+D:\Official Portfolio\SlinkOS Development\multitoolv4btsos - Copy\mulitoolv4bts\mulitoolv4bts\obj\x86\Debug\slinkosmtv4.timer.resources
+D:\Official Portfolio\SlinkOS Development\multitoolv4btsos - Copy\mulitoolv4bts\mulitoolv4bts\obj\x86\Debug\slinkosmtv4.zelda.game.resources
+D:\Official Portfolio\SlinkOS Development\multitoolv4btsos - Copy\mulitoolv4bts\mulitoolv4bts\obj\x86\Debug\slinkosmtv4.zelda.credits.resources
+D:\Official Portfolio\SlinkOS Development\multitoolv4btsos - Copy\mulitoolv4bts\mulitoolv4bts\obj\x86\Debug\slinkosmtv4.zelda.Properties.Resources.resources
+D:\Official Portfolio\SlinkOS Development\multitoolv4btsos - Copy\mulitoolv4bts\mulitoolv4bts\obj\x86\Debug\mulitoolv4bts.csproj.GenerateResource.cache
+D:\Official Portfolio\SlinkOS Development\multitoolv4btsos - Copy\mulitoolv4bts\mulitoolv4bts\obj\x86\Debug\mulitoolv4bts.csproj.CoreCompileInputs.cache
+D:\Official Portfolio\SlinkOS Development\multitoolv4btsos - Copy\mulitoolv4bts\mulitoolv4bts\obj\x86\Debug\slinkosmtv4.exe.manifest
+D:\Official Portfolio\SlinkOS Development\multitoolv4btsos - Copy\mulitoolv4bts\mulitoolv4bts\obj\x86\Debug\slinkosmtv4.application
+D:\Official Portfolio\SlinkOS Development\multitoolv4btsos - Copy\mulitoolv4bts\mulitoolv4bts\obj\x86\Debug\mulitoolv4bts.csproj.CopyComplete
+D:\Official Portfolio\SlinkOS Development\multitoolv4btsos - Copy\mulitoolv4bts\mulitoolv4bts\obj\x86\Debug\slinkosmtv4.exe
+D:\Official Portfolio\SlinkOS Development\multitoolv4btsos - Copy\mulitoolv4bts\mulitoolv4bts\obj\x86\Debug\slinkosmtv4.pdb
